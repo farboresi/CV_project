@@ -1,0 +1,11 @@
+# videos are shared via OneDrive, not git
+long_clips/
+YT_clips/
+reshaped_videos/
+*.mp4
+*.avi
+# clutter
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
