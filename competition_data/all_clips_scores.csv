@@ -1,0 +1,393 @@
+dataset,clip_id,video_path,competition,athlete,attempt,fall,official_score,score_scale,official_score_100,aqa_split4
+competition,xg_aspen_2026_men_001,long_clips/xg_aspen_2026_men_001.mp4,xg_aspen_2026_men,Hunter Henderson,1,0,61.66,100,61.66,
+competition,xg_aspen_2026_men_002,long_clips/xg_aspen_2026_men_002.mp4,xg_aspen_2026_men,Ben Barclay,1,1,16.33,100,16.33,
+competition,xg_aspen_2026_men_003,long_clips/xg_aspen_2026_men_003.mp4,xg_aspen_2026_men,Konnor Ralph,1,0,85.00,100,85.00,
+competition,xg_aspen_2026_men_005,long_clips/xg_aspen_2026_men_005.mp4,xg_aspen_2026_men,Elias Syrja,1,0,83.00,100,83.00,
+competition,xg_aspen_2026_men_007,long_clips/xg_aspen_2026_men_007.mp4,xg_aspen_2026_men,Dylan Deschamps,1,0,87.66,100,87.66,
+competition,xg_aspen_2026_men_009,long_clips/xg_aspen_2026_men_009.mp4,xg_aspen_2026_men,Tormod Frostad,1,0,77.66,100,77.66,
+competition,xg_aspen_2026_men_011,long_clips/xg_aspen_2026_men_011.mp4,xg_aspen_2026_men,Birk Ruud,1,0,84.00,100,84.00,
+competition,xg_aspen_2026_men_015,long_clips/xg_aspen_2026_men_015.mp4,xg_aspen_2026_men,Mac Forehand,1,0,65.33,100,65.33,
+competition,xg_aspen_2026_men_017,long_clips/xg_aspen_2026_men_017.mp4,xg_aspen_2026_men,Luca Harrington,1,0,92.33,100,92.33,
+competition,xg_aspen_2026_men_019,long_clips/xg_aspen_2026_men_019.mp4,xg_aspen_2026_men,Hunter Henderson,2,0,88.33,100,88.33,
+competition,xg_aspen_2026_men_022,long_clips/xg_aspen_2026_men_022.mp4,xg_aspen_2026_men,Ben Barclay,2,0,73.33,100,73.33,
+competition,xg_aspen_2026_men_024,long_clips/xg_aspen_2026_men_024.mp4,xg_aspen_2026_men,Konnor Ralph,2,1,13.33,100,13.33,
+competition,xg_aspen_2026_men_026,long_clips/xg_aspen_2026_men_026.mp4,xg_aspen_2026_men,Elias Syrja,2,1,21.00,100,21.00,
+competition,xg_aspen_2026_men_027,long_clips/xg_aspen_2026_men_027.mp4,xg_aspen_2026_men,Dylan Deschamps,2,0,42.00,100,42.00,
+competition,xg_aspen_2026_men_031,long_clips/xg_aspen_2026_men_031.mp4,xg_aspen_2026_men,Tormod Frostad,2,0,93.66,100,93.66,
+competition,xg_aspen_2026_men_033,long_clips/xg_aspen_2026_men_033.mp4,xg_aspen_2026_men,Birk Ruud,2,0,89.66,100,89.66,
+competition,xg_aspen_2026_men_035,long_clips/xg_aspen_2026_men_035.mp4,xg_aspen_2026_men,Mac Forehand,2,0,96.00,100,96.00,
+competition,xg_aspen_2026_men_037,long_clips/xg_aspen_2026_men_037.mp4,xg_aspen_2026_men,Luca Harrington,2,0,94.66,100,94.66,
+competition,xg_aspen_2026_men_041,long_clips/xg_aspen_2026_men_041.mp4,xg_aspen_2026_men,Hunter Henderson,3,0,88.33,100,88.33,
+competition,xg_aspen_2026_men_044,long_clips/xg_aspen_2026_men_044.mp4,xg_aspen_2026_men,Ben Barclay,3,0,42.00,100,42.00,
+competition,xg_aspen_2026_men_046,long_clips/xg_aspen_2026_men_046.mp4,xg_aspen_2026_men,Konnor Ralph,3,0,49.33,100,49.33,
+competition,xg_aspen_2026_men_050,long_clips/xg_aspen_2026_men_050.mp4,xg_aspen_2026_men,Elias Syrja,3,0,89.00,100,89.00,
+competition,xg_aspen_2026_men_053,long_clips/xg_aspen_2026_men_053.mp4,xg_aspen_2026_men,Dylan Deschamps,3,0,94.00,100,94.00,
+competition,xg_aspen_2026_men_056,long_clips/xg_aspen_2026_men_056.mp4,xg_aspen_2026_men,Tormod Frostad,3,0,85.00,100,85.00,
+competition,xg_aspen_2026_men_059,long_clips/xg_aspen_2026_men_059.mp4,xg_aspen_2026_men,Birk Ruud,3,0,89.66,100,89.66,
+competition,xg_aspen_2026_men_060,long_clips/xg_aspen_2026_men_060.mp4,xg_aspen_2026_men,Mac Forehand,3,0,42.00,100,42.00,
+competition,xg_aspen_2026_men_061,long_clips/xg_aspen_2026_men_061.mp4,xg_aspen_2026_men,Luca Harrington,3,0,85.33,100,85.33,
+competition,xg_aspen_2023_women_003,long_clips/xg_aspen_2023_women_003.mp4,xg_aspen_2023_women,Grace Henderson,1,0,23,50,46.00,
+competition,xg_aspen_2023_women_006,long_clips/xg_aspen_2023_women_006.mp4,xg_aspen_2023_women,Sandra Eie,1,0,27,50,54.00,
+competition,xg_aspen_2023_women_009,long_clips/xg_aspen_2023_women_009.mp4,xg_aspen_2023_women,Olivia Asselin,1,0,28,50,56.00,
+competition,xg_aspen_2023_women_011,long_clips/xg_aspen_2023_women_011.mp4,xg_aspen_2023_women,Kirsty Muir,1,0,38,50,76.00,
+competition,xg_aspen_2023_women_013,long_clips/xg_aspen_2023_women_013.mp4,xg_aspen_2023_women,Sarah Hoefflin,1,0,26,50,52.00,
+competition,xg_aspen_2023_women_015,long_clips/xg_aspen_2023_women_015.mp4,xg_aspen_2023_women,Megan Oldham,1,1,9,50,18.00,
+competition,xg_aspen_2023_women_018,long_clips/xg_aspen_2023_women_018.mp4,xg_aspen_2023_women,Mathilde Gremaud,1,0,29,50,58.00,
+competition,xg_aspen_2023_women_020,long_clips/xg_aspen_2023_women_020.mp4,xg_aspen_2023_women,Tess Ledeux,1,0,46,50,92.00,
+competition,xg_aspen_2023_women_023,long_clips/xg_aspen_2023_women_023.mp4,xg_aspen_2023_women,Grace Henderson,2,0,28,50,56.00,
+competition,xg_aspen_2023_women_025,long_clips/xg_aspen_2023_women_025.mp4,xg_aspen_2023_women,Sandra Eie,2,0,35,50,70.00,
+competition,xg_aspen_2023_women_027,long_clips/xg_aspen_2023_women_027.mp4,xg_aspen_2023_women,Olivia Asselin,2,0,28,50,56.00,
+competition,xg_aspen_2023_women_028,long_clips/xg_aspen_2023_women_028.mp4,xg_aspen_2023_women,Kirsty Muir,2,0,41,50,82.00,
+competition,xg_aspen_2023_women_030,long_clips/xg_aspen_2023_women_030.mp4,xg_aspen_2023_women,Sarah Hoefflin,2,0,37,50,74.00,
+competition,xg_aspen_2023_women_032,long_clips/xg_aspen_2023_women_032.mp4,xg_aspen_2023_women,Megan Oldham,2,1,9,50,18.00,
+competition,xg_aspen_2023_women_033,long_clips/xg_aspen_2023_women_033.mp4,xg_aspen_2023_women,Mathilde Gremaud,2,0,43,50,86.00,
+competition,xg_aspen_2023_women_037,long_clips/xg_aspen_2023_women_037.mp4,xg_aspen_2023_women,Tess Ledeux,2,0,42,50,84.00,
+competition,xg_aspen_2023_women_039,long_clips/xg_aspen_2023_women_039.mp4,xg_aspen_2023_women,Grace Henderson,3,0,23,50,46.00,
+competition,xg_aspen_2023_women_041,long_clips/xg_aspen_2023_women_041.mp4,xg_aspen_2023_women,Sandra Eie,3,1,9,50,18.00,
+competition,xg_aspen_2023_women_042,long_clips/xg_aspen_2023_women_042.mp4,xg_aspen_2023_women,Olivia Asselin,3,0,27,50,54.00,
+competition,xg_aspen_2023_women_044,long_clips/xg_aspen_2023_women_044.mp4,xg_aspen_2023_women,Kirsty Muir,3,0,44,50,88.00,
+competition,xg_aspen_2023_women_046,long_clips/xg_aspen_2023_women_046.mp4,xg_aspen_2023_women,Sarah Hoefflin,3,0,37,50,74.00,
+competition,xg_aspen_2023_women_048,long_clips/xg_aspen_2023_women_048.mp4,xg_aspen_2023_women,Megan Oldham,3,0,50,50,100.00,
+competition,xg_aspen_2023_women_051,long_clips/xg_aspen_2023_women_051.mp4,xg_aspen_2023_women,Mathilde Gremaud,3,0,43,50,86.00,
+competition,xg_aspen_2023_women_054,long_clips/xg_aspen_2023_women_054.mp4,xg_aspen_2023_women,Tess Ledeux,3,0,44,50,88.00,
+competition,xg_aspen_2023_women_056,long_clips/xg_aspen_2023_women_056.mp4,xg_aspen_2023_women,Grace Henderson,4,0,35,50,70.00,
+competition,xg_aspen_2023_women_059,long_clips/xg_aspen_2023_women_059.mp4,xg_aspen_2023_women,Sandra Eie,4,0,41,50,82.00,
+competition,xg_aspen_2023_women_061,long_clips/xg_aspen_2023_women_061.mp4,xg_aspen_2023_women,Olivia Asselin,4,0,27,50,54.00,
+competition,xg_aspen_2023_women_062,long_clips/xg_aspen_2023_women_062.mp4,xg_aspen_2023_women,Kirsty Muir,4,0,38,50,76.00,
+competition,xg_aspen_2023_women_064,long_clips/xg_aspen_2023_women_064.mp4,xg_aspen_2023_women,Sarah Hoefflin,4,0,36,50,72.00,
+competition,xg_aspen_2023_women_066,long_clips/xg_aspen_2023_women_066.mp4,xg_aspen_2023_women,Megan Oldham,4,0,41,50,82.00,
+competition,xg_aspen_2023_women_067,long_clips/xg_aspen_2023_women_067.mp4,xg_aspen_2023_women,Mathilde Gremaud,4,0,18,50,36.00,
+competition,xg_aspen_2023_women_068,long_clips/xg_aspen_2023_women_068.mp4,xg_aspen_2023_women,Tess Ledeux,4,1,9,50,18.00,
+competition,xg_aspen_2023_women_069,long_clips/xg_aspen_2023_women_069.mp4,xg_aspen_2023_women,Grace Henderson,5,0,16,50,32.00,
+competition,xg_aspen_2023_women_070,long_clips/xg_aspen_2023_women_070.mp4,xg_aspen_2023_women,Sandra Eie,5,0,26,50,52.00,
+competition,xg_aspen_2023_women_071,long_clips/xg_aspen_2023_women_071.mp4,xg_aspen_2023_women,Olivia Asselin,5,0,31,50,62.00,
+competition,xg_aspen_2023_women_073,long_clips/xg_aspen_2023_women_073.mp4,xg_aspen_2023_women,Kirsty Muir,5,0,24,50,48.00,
+competition,xg_aspen_2023_women_075,long_clips/xg_aspen_2023_women_075.mp4,xg_aspen_2023_women,Sarah Hoefflin,5,0,41,50,82.00,
+competition,xg_aspen_2023_women_077,long_clips/xg_aspen_2023_women_077.mp4,xg_aspen_2023_women,Megan Oldham,5,1,7,50,14.00,
+competition,xg_aspen_2023_women_078,long_clips/xg_aspen_2023_women_078.mp4,xg_aspen_2023_women,Mathilde Gremaud,5,0,41,50,82.00,
+competition,xg_aspen_2023_women_080,long_clips/xg_aspen_2023_women_080.mp4,xg_aspen_2023_women,Tess Ledeux,5,0,33,50,66.00,
+competition,oly_beijing_2022_women_003,long_clips/oly_beijing_2022_women_003.mp4,oly_beijing_2022_women,Anni Karava,1,0,81.00,100,81.00,
+competition,oly_beijing_2022_women_006,long_clips/oly_beijing_2022_women_006.mp4,oly_beijing_2022_women,Olivia Asselin,1,0,62.00,100,62.00,
+competition,oly_beijing_2022_women_008,long_clips/oly_beijing_2022_women_008.mp4,oly_beijing_2022_women,Johanne Killi,1,0,87.75,100,87.75,
+competition,oly_beijing_2022_women_010,long_clips/oly_beijing_2022_women_010.mp4,oly_beijing_2022_women,Sarah Hoefflin,1,0,82.50,100,82.50,
+competition,oly_beijing_2022_women_013,long_clips/oly_beijing_2022_women_013.mp4,oly_beijing_2022_women,Darian Stevens,1,0,56.75,100,56.75,
+competition,oly_beijing_2022_women_015,long_clips/oly_beijing_2022_women_015.mp4,oly_beijing_2022_women,Kirsty Muir,1,0,90.25,100,90.25,
+competition,oly_beijing_2022_women_019,long_clips/oly_beijing_2022_women_019.mp4,oly_beijing_2022_women,Mathilde Gremaud,1,0,89.25,100,89.25,
+competition,oly_beijing_2022_women_021,long_clips/oly_beijing_2022_women_021.mp4,oly_beijing_2022_women,Eileen Gu,1,0,93.75,100,93.75,
+competition,oly_beijing_2022_women_023,long_clips/oly_beijing_2022_women_023.mp4,oly_beijing_2022_women,Sandra Eie,1,1,17.00,100,17.00,
+competition,oly_beijing_2022_women_025,long_clips/oly_beijing_2022_women_025.mp4,oly_beijing_2022_women,Anastasia Tatalina,1,0,75.50,100,75.50,
+competition,oly_beijing_2022_women_028,long_clips/oly_beijing_2022_women_028.mp4,oly_beijing_2022_women,Tess Ledeux,1,0,94.50,100,94.50,
+competition,oly_beijing_2022_women_030,long_clips/oly_beijing_2022_women_030.mp4,oly_beijing_2022_women,Megan Oldham,1,0,85.00,100,85.00,
+competition,oly_beijing_2022_women_034,long_clips/oly_beijing_2022_women_034.mp4,oly_beijing_2022_women,Anni Karava,2,0,54.00,100,54.00,
+competition,oly_beijing_2022_women_036,long_clips/oly_beijing_2022_women_036.mp4,oly_beijing_2022_women,Olivia Asselin,2,0,60.25,100,60.25,
+competition,oly_beijing_2022_women_039,long_clips/oly_beijing_2022_women_039.mp4,oly_beijing_2022_women,Johanne Killi,2,0,58.50,100,58.50,
+competition,oly_beijing_2022_women_042,long_clips/oly_beijing_2022_women_042.mp4,oly_beijing_2022_women,Sarah Hoefflin,2,0,53.00,100,53.00,
+competition,oly_beijing_2022_women_045,long_clips/oly_beijing_2022_women_045.mp4,oly_beijing_2022_women,Darian Stevens,2,0,50.75,100,50.75,
+competition,oly_beijing_2022_women_048,long_clips/oly_beijing_2022_women_048.mp4,oly_beijing_2022_women,Kirsty Muir,2,0,78.75,100,78.75,
+competition,oly_beijing_2022_women_051,long_clips/oly_beijing_2022_women_051.mp4,oly_beijing_2022_women,Mathilde Gremaud,2,0,93.25,100,93.25,
+competition,oly_beijing_2022_women_054,long_clips/oly_beijing_2022_women_054.mp4,oly_beijing_2022_women,Eileen Gu,2,0,88.50,100,88.50,
+competition,oly_beijing_2022_women_056,long_clips/oly_beijing_2022_women_056.mp4,oly_beijing_2022_women,Sandra Eie,2,1,19.00,100,19.00,
+competition,oly_beijing_2022_women_057,long_clips/oly_beijing_2022_women_057.mp4,oly_beijing_2022_women,Anastasia Tatalina,2,1,22.25,100,22.25,
+competition,oly_beijing_2022_women_059,long_clips/oly_beijing_2022_women_059.mp4,oly_beijing_2022_women,Tess Ledeux,2,0,93.00,100,93.00,
+competition,oly_beijing_2022_women_061,long_clips/oly_beijing_2022_women_061.mp4,oly_beijing_2022_women,Megan Oldham,2,0,89.25,100,89.25,
+competition,oly_beijing_2022_women_063,long_clips/oly_beijing_2022_women_063.mp4,oly_beijing_2022_women,Sandra Eie,3,0,64.50,100,64.50,
+competition,oly_beijing_2022_women_065,long_clips/oly_beijing_2022_women_065.mp4,oly_beijing_2022_women,Darian Stevens,3,1,18.25,100,18.25,
+competition,oly_beijing_2022_women_067,long_clips/oly_beijing_2022_women_067.mp4,oly_beijing_2022_women,Anastasia Tatalina,3,0,47.00,100,47.00,
+competition,oly_beijing_2022_women_069,long_clips/oly_beijing_2022_women_069.mp4,oly_beijing_2022_women,Olivia Asselin,3,0,85.50,100,85.50,
+competition,oly_beijing_2022_women_070,long_clips/oly_beijing_2022_women_070.mp4,oly_beijing_2022_women,Anni Karava,3,0,82.50,100,82.50,
+competition,oly_beijing_2022_women_072,long_clips/oly_beijing_2022_women_072.mp4,oly_beijing_2022_women,Sarah Hoefflin,3,0,76.25,100,76.25,
+competition,oly_beijing_2022_women_074,long_clips/oly_beijing_2022_women_074.mp4,oly_beijing_2022_women,Johanne Killi,3,0,65.50,100,65.50,
+competition,oly_beijing_2022_women_077,long_clips/oly_beijing_2022_women_077.mp4,oly_beijing_2022_women,Kirsty Muir,3,1,15.50,100,15.50,
+competition,oly_beijing_2022_women_079,long_clips/oly_beijing_2022_women_079.mp4,oly_beijing_2022_women,Megan Oldham,3,0,88.75,100,88.75,
+competition,oly_beijing_2022_women_082,long_clips/oly_beijing_2022_women_082.mp4,oly_beijing_2022_women,Eileen Gu,3,0,94.50,100,94.50,
+competition,oly_beijing_2022_women_083,long_clips/oly_beijing_2022_women_083.mp4,oly_beijing_2022_women,Mathilde Gremaud,3,1,26.00,100,26.00,
+competition,oly_beijing_2022_women_087,long_clips/oly_beijing_2022_women_087.mp4,oly_beijing_2022_women,Tess Ledeux,3,0,73.25,100,73.25,
+competition,xg_aspen_2025_women_001,long_clips/xg_aspen_2025_women_001.mp4,xg_aspen_2025_women,Grace Henderson,1,0,79.00,100,79.00,
+competition,xg_aspen_2025_women_002,long_clips/xg_aspen_2025_women_002.mp4,xg_aspen_2025_women,Tess Ledeux,1,1,22.33,100,22.33,
+competition,xg_aspen_2025_women_003,long_clips/xg_aspen_2025_women_003.mp4,xg_aspen_2025_women,Muriel Mohr,1,0,82.66,100,82.66,
+competition,xg_aspen_2025_women_005,long_clips/xg_aspen_2025_women_005.mp4,xg_aspen_2025_women,Anni Karava,1,0,86.00,100,86.00,
+competition,xg_aspen_2025_women_006,long_clips/xg_aspen_2025_women_006.mp4,xg_aspen_2025_women,Rell Harwood,1,0,88.66,100,88.66,
+competition,xg_aspen_2025_women_007,long_clips/xg_aspen_2025_women_007.mp4,xg_aspen_2025_women,Mengting Liu,1,0,87.00,100,87.00,
+competition,xg_aspen_2025_women_010,long_clips/xg_aspen_2025_women_010.mp4,xg_aspen_2025_women,Flora Tabanelli,1,0,91.66,100,91.66,
+competition,xg_aspen_2025_women_016,long_clips/xg_aspen_2025_women_016.mp4,xg_aspen_2025_women,Grace Henderson,2,0,88.00,100,88.00,
+competition,xg_aspen_2025_women_019,long_clips/xg_aspen_2025_women_019.mp4,xg_aspen_2025_women,Muriel Mohr,2,0,84.33,100,84.33,
+competition,xg_aspen_2025_women_020,long_clips/xg_aspen_2025_women_020.mp4,xg_aspen_2025_women,Anni Karava,2,0,65.66,100,65.66,
+competition,xg_aspen_2025_women_021,long_clips/xg_aspen_2025_women_021.mp4,xg_aspen_2025_women,Rell Harwood,2,1,20.33,100,20.33,
+competition,xg_aspen_2025_women_022,long_clips/xg_aspen_2025_women_022.mp4,xg_aspen_2025_women,Mengting Liu,2,1,22.33,100,22.33,
+competition,xg_aspen_2025_women_023,long_clips/xg_aspen_2025_women_023.mp4,xg_aspen_2025_women,Flora Tabanelli,2,0,82.66,100,82.66,
+competition,xg_aspen_2025_women_024,long_clips/xg_aspen_2025_women_024.mp4,xg_aspen_2025_women,Tess Ledeux,2,0,93.33,100,93.33,
+competition,xg_aspen_2025_women_027,long_clips/xg_aspen_2025_women_027.mp4,xg_aspen_2025_women,Grace Henderson,3,0,88.00,100,88.00,
+competition,xg_aspen_2025_women_029,long_clips/xg_aspen_2025_women_029.mp4,xg_aspen_2025_women,Muriel Mohr,3,1,19.66,100,19.66,
+competition,xg_aspen_2025_women_030,long_clips/xg_aspen_2025_women_030.mp4,xg_aspen_2025_women,Anni Karava,3,0,85.33,100,85.33,
+competition,xg_aspen_2025_women_031,long_clips/xg_aspen_2025_women_031.mp4,xg_aspen_2025_women,Rell Harwood,3,0,89.66,100,89.66,
+competition,xg_aspen_2025_women_033,long_clips/xg_aspen_2025_women_033.mp4,xg_aspen_2025_women,Mengting Liu,3,0,87.00,100,87.00,
+competition,xg_aspen_2025_women_034,long_clips/xg_aspen_2025_women_034.mp4,xg_aspen_2025_women,Flora Tabanelli,3,0,80.00,100,80.00,
+competition,xg_aspen_2025_women_036,long_clips/xg_aspen_2025_women_036.mp4,xg_aspen_2025_women,Tess Ledeux,3,0,93.00,100,93.00,
+competition,xg_aspen_2025_women_037,long_clips/xg_aspen_2025_women_037.mp4,xg_aspen_2025_women,Grace Henderson,4,1,25.00,100,25.00,
+competition,xg_aspen_2025_women_039,long_clips/xg_aspen_2025_women_039.mp4,xg_aspen_2025_women,Rell Harwood,4,1,20.00,100,20.00,
+competition,xg_aspen_2025_women_040,long_clips/xg_aspen_2025_women_040.mp4,xg_aspen_2025_women,Flora Tabanelli,4,0,90.00,100,90.00,
+competition,xg_aspen_2025_women_042,long_clips/xg_aspen_2025_women_042.mp4,xg_aspen_2025_women,Tess Ledeux,4,1,27.00,100,27.00,
+competition,xg_aspen_2025_women_043,long_clips/xg_aspen_2025_women_043.mp4,xg_aspen_2025_women,Grace Henderson,5,0,87.33,100,87.33,
+competition,xg_aspen_2025_women_045,long_clips/xg_aspen_2025_women_045.mp4,xg_aspen_2025_women,Rell Harwood,5,1,23.66,100,23.66,
+competition,xg_aspen_2025_women_046,long_clips/xg_aspen_2025_women_046.mp4,xg_aspen_2025_women,Flora Tabanelli,5,0,78.66,100,78.66,
+competition,xg_aspen_2025_women_049,long_clips/xg_aspen_2025_women_049.mp4,xg_aspen_2025_women,Tess Ledeux,5,1,17.00,100,17.00,
+competition,oly_beijing_2022_men_002,long_clips/oly_beijing_2022_men_002.mp4,oly_beijing_2022_men,Jesper Tjader,1,0,77.25,100,77.25,
+competition,oly_beijing_2022_men_004,long_clips/oly_beijing_2022_men_004.mp4,oly_beijing_2022_men,Evan McEachran,1,0,93.00,100,93.00,
+competition,oly_beijing_2022_men_006,long_clips/oly_beijing_2022_men_006.mp4,oly_beijing_2022_men,Leonardo Donaggio,1,0,91.00,100,91.00,
+competition,oly_beijing_2022_men_008,long_clips/oly_beijing_2022_men_008.mp4,oly_beijing_2022_men,Javier Lliso,1,0,51.25,100,51.25,
+competition,oly_beijing_2022_men_010,long_clips/oly_beijing_2022_men_010.mp4,oly_beijing_2022_men,Mac Forehand,1,0,60.75,100,60.75,
+competition,oly_beijing_2022_men_013,long_clips/oly_beijing_2022_men_013.mp4,oly_beijing_2022_men,Tormod Frostad,1,1,25.50,100,25.50,
+competition,oly_beijing_2022_men_016,long_clips/oly_beijing_2022_men_016.mp4,oly_beijing_2022_men,Christian Nummedal,1,1,26.00,100,26.00,
+competition,oly_beijing_2022_men_018,long_clips/oly_beijing_2022_men_018.mp4,oly_beijing_2022_men,Colby Stevenson,1,0,34.75,100,34.75,
+competition,oly_beijing_2022_men_020,long_clips/oly_beijing_2022_men_020.mp4,oly_beijing_2022_men,Henrik Harlaut,1,0,86.00,100,86.00,
+competition,oly_beijing_2022_men_024,long_clips/oly_beijing_2022_men_024.mp4,oly_beijing_2022_men,Oliwer Magnusson,1,0,87.50,100,87.50,
+competition,oly_beijing_2022_men_026,long_clips/oly_beijing_2022_men_026.mp4,oly_beijing_2022_men,Alexander Hall,1,0,68.25,100,68.25,
+competition,oly_beijing_2022_men_029,long_clips/oly_beijing_2022_men_029.mp4,oly_beijing_2022_men,Birk Ruud,1,0,95.75,100,95.75,
+competition,oly_beijing_2022_men_032,long_clips/oly_beijing_2022_men_032.mp4,oly_beijing_2022_men,Jesper Tjader,2,0,78.25,100,78.25,
+competition,oly_beijing_2022_men_034,long_clips/oly_beijing_2022_men_034.mp4,oly_beijing_2022_men,Evan Mceachran,2,1,22.50,100,22.50,
+competition,oly_beijing_2022_men_036,long_clips/oly_beijing_2022_men_036.mp4,oly_beijing_2022_men,Leonardo Donaggio,2,0,81.00,100,81.00,
+competition,oly_beijing_2022_men_038,long_clips/oly_beijing_2022_men_038.mp4,oly_beijing_2022_men,Javier Lliso,2,0,89.00,100,89.00,
+competition,oly_beijing_2022_men_039,long_clips/oly_beijing_2022_men_039.mp4,oly_beijing_2022_men,Mac Forehand,2,1,19.50,100,19.50,
+competition,oly_beijing_2022_men_040,long_clips/oly_beijing_2022_men_040.mp4,oly_beijing_2022_men,Tormod Frostad,2,1,14.00,100,14.00,
+competition,oly_beijing_2022_men_042,long_clips/oly_beijing_2022_men_042.mp4,oly_beijing_2022_men,Christian Nummedal,2,0,93.00,100,93.00,
+competition,oly_beijing_2022_men_045,long_clips/oly_beijing_2022_men_045.mp4,oly_beijing_2022_men,Colby Stevenson,2,0,91.75,100,91.75,
+competition,oly_beijing_2022_men_049,long_clips/oly_beijing_2022_men_049.mp4,oly_beijing_2022_men,Henrik Harlaut,2,0,90.00,100,90.00,
+competition,oly_beijing_2022_men_052,long_clips/oly_beijing_2022_men_052.mp4,oly_beijing_2022_men,Oliwer Magnusson,2,0,79.00,100,79.00,
+competition,oly_beijing_2022_men_053,long_clips/oly_beijing_2022_men_053.mp4,oly_beijing_2022_men,Alexander Hall,2,0,92.50,100,92.50,
+competition,oly_beijing_2022_men_055,long_clips/oly_beijing_2022_men_055.mp4,oly_beijing_2022_men,Birk Ruud,2,0,92.00,100,92.00,
+competition,oly_beijing_2022_men_059,long_clips/oly_beijing_2022_men_059.mp4,oly_beijing_2022_men,Tormod Frostad,3,0,33.00,100,33.00,
+competition,oly_beijing_2022_men_061,long_clips/oly_beijing_2022_men_061.mp4,oly_beijing_2022_men,Mac Forehand,3,0,42.00,100,42.00,
+competition,oly_beijing_2022_men_063,long_clips/oly_beijing_2022_men_063.mp4,oly_beijing_2022_men,Javier Lliso,3,0,82.50,100,82.50,
+competition,oly_beijing_2022_men_066,long_clips/oly_beijing_2022_men_066.mp4,oly_beijing_2022_men,Colby Stevenson,3,0,91.25,100,91.25,
+competition,oly_beijing_2022_men_068,long_clips/oly_beijing_2022_men_068.mp4,oly_beijing_2022_men,Christian Nummedal,3,1,17.50,100,17.50,
+competition,oly_beijing_2022_men_069,long_clips/oly_beijing_2022_men_069.mp4,oly_beijing_2022_men,Evan McEachran,3,1,11.50,100,11.50,
+competition,oly_beijing_2022_men_071,long_clips/oly_beijing_2022_men_071.mp4,oly_beijing_2022_men,Jesper Tjader,3,0,92.00,100,92.00,
+competition,oly_beijing_2022_men_074,long_clips/oly_beijing_2022_men_074.mp4,oly_beijing_2022_men,Alexander Hall,3,1,27.00,100,27.00,
+competition,oly_beijing_2022_men_076,long_clips/oly_beijing_2022_men_076.mp4,oly_beijing_2022_men,Oliwer Magnusson,3,0,90.75,100,90.75,
+competition,oly_beijing_2022_men_079,long_clips/oly_beijing_2022_men_079.mp4,oly_beijing_2022_men,Leonardo Donaggio,3,1,17.25,100,17.25,
+competition,oly_beijing_2022_men_081,long_clips/oly_beijing_2022_men_081.mp4,oly_beijing_2022_men,Henrik Harlaut,3,0,91.00,100,91.00,
+competition,oly_beijing_2022_men_083,long_clips/oly_beijing_2022_men_083.mp4,oly_beijing_2022_men,Birk Ruud,3,0,69.00,100,69.00,
+competition,xg_aspen_2026_women_001,long_clips/xg_aspen_2026_women_001.mp4,xg_aspen_2026_women,Naomi Urness,1,0,45.00,100,45.00,
+competition,xg_aspen_2026_women_002,long_clips/xg_aspen_2026_women_002.mp4,xg_aspen_2026_women,Anastasia Tatalina,1,0,77.00,100,77.00,
+competition,xg_aspen_2026_women_004,long_clips/xg_aspen_2026_women_004.mp4,xg_aspen_2026_women,Kirsty Muir,1,0,89.33,100,89.33,
+competition,xg_aspen_2026_women_007,long_clips/xg_aspen_2026_women_007.mp4,xg_aspen_2026_women,Anni Karava,1,1,14.66,100,14.66,
+competition,xg_aspen_2026_women_009,long_clips/xg_aspen_2026_women_009.mp4,xg_aspen_2026_women,Mathilde Gremaud,1,0,94.66,100,94.66,
+competition,xg_aspen_2026_women_011,long_clips/xg_aspen_2026_women_011.mp4,xg_aspen_2026_women,Megan Oldham,1,0,84.66,100,84.66,
+competition,xg_aspen_2026_women_013,long_clips/xg_aspen_2026_women_013.mp4,xg_aspen_2026_women,Naomi Urness,2,0,55.00,100,55.00,
+competition,xg_aspen_2026_women_016,long_clips/xg_aspen_2026_women_016.mp4,xg_aspen_2026_women,Anastasia Tatalina,2,0,82.00,100,82.00,
+competition,xg_aspen_2026_women_019,long_clips/xg_aspen_2026_women_019.mp4,xg_aspen_2026_women,Kirsty Muir,2,0,93.00,100,93.00,
+competition,xg_aspen_2026_women_021,long_clips/xg_aspen_2026_women_021.mp4,xg_aspen_2026_women,Anni Karava,2,0,62.33,100,62.33,
+competition,xg_aspen_2026_women_023,long_clips/xg_aspen_2026_women_023.mp4,xg_aspen_2026_women,Mathilde Gremaud,2,0,36.66,100,36.66,
+competition,xg_aspen_2026_women_025,long_clips/xg_aspen_2026_women_025.mp4,xg_aspen_2026_women,Megan Oldham,2,0,90.66,100,90.66,
+competition,xg_aspen_2026_women_028,long_clips/xg_aspen_2026_women_028.mp4,xg_aspen_2026_women,Naomi Urness,3,0,85.00,100,85.00,
+competition,xg_aspen_2026_women_030,long_clips/xg_aspen_2026_women_030.mp4,xg_aspen_2026_women,Anastasia Tatalina,3,1,29.00,100,29.00,
+competition,xg_aspen_2026_women_033,long_clips/xg_aspen_2026_women_033.mp4,xg_aspen_2026_women,Kirsty Muir,3,0,94.00,100,94.00,
+competition,xg_aspen_2026_women_036,long_clips/xg_aspen_2026_women_036.mp4,xg_aspen_2026_women,Anni Karava,3,0,11.00,100,11.00,
+competition,xg_aspen_2026_women_038,long_clips/xg_aspen_2026_women_038.mp4,xg_aspen_2026_women,Mathilde Gremaud,3,1,23.66,100,23.66,
+competition,xg_aspen_2026_women_039,long_clips/xg_aspen_2026_women_039.mp4,xg_aspen_2026_women,Megan Oldham,3,1,13.66,100,13.66,
+competition,xg_aspen_2025_men_b001,long_clips/xg_aspen_2025_men_b001.mp4,xg_aspen_2025_men,Dylan Deschamps,1,0,85.33,100,85.33,
+competition,xg_aspen_2025_men_b002,long_clips/xg_aspen_2025_men_b002.mp4,xg_aspen_2025_men,Miro Tabanelli,1,0,91.33,100,91.33,
+competition,xg_aspen_2025_men_b003,long_clips/xg_aspen_2025_men_b003.mp4,xg_aspen_2025_men,Luca Harrington,1,0,95.00,100,95.00,
+competition,xg_aspen_2025_men_b004,long_clips/xg_aspen_2025_men_b004.mp4,xg_aspen_2025_men,Mac Forehand,1,0,90.33,100,90.33,
+competition,xg_aspen_2025_men_b005,long_clips/xg_aspen_2025_men_b005.mp4,xg_aspen_2025_men,Birk Ruud,1,0,81.00,100,81.00,
+competition,xg_aspen_2025_men_b006,long_clips/xg_aspen_2025_men_b006.mp4,xg_aspen_2025_men,Matej Svancer,1,0,77.33,100,77.33,
+competition,xg_aspen_2025_men_b007,long_clips/xg_aspen_2025_men_b007.mp4,xg_aspen_2025_men,Alex Hall,1,0,42.00,100,42.00,
+competition,xg_aspen_2025_men_b008,long_clips/xg_aspen_2025_men_b008.mp4,xg_aspen_2025_men,Troy Podmilsak,1,0,94.00,100,94.00,
+competition,xg_aspen_2025_men_b012,long_clips/xg_aspen_2025_men_b012.mp4,xg_aspen_2025_men,Dylan Deschamps,2,1,23.00,100,23.00,
+competition,xg_aspen_2025_men_b014,long_clips/xg_aspen_2025_men_b014.mp4,xg_aspen_2025_men,Miro Tabanelli,2,0,34.66,100,34.66,
+competition,xg_aspen_2025_men_b016,long_clips/xg_aspen_2025_men_b016.mp4,xg_aspen_2025_men,Luca Harrington,2,0,85.00,100,85.00,
+competition,xg_aspen_2025_men_b019,long_clips/xg_aspen_2025_men_b019.mp4,xg_aspen_2025_men,Mac Forehand,2,1,23.33,100,23.33,
+competition,xg_aspen_2025_men_b020,long_clips/xg_aspen_2025_men_b020.mp4,xg_aspen_2025_men,Birk Ruud,2,0,89.33,100,89.33,
+competition,xg_aspen_2025_men_b022,long_clips/xg_aspen_2025_men_b022.mp4,xg_aspen_2025_men,Matej Svancer,2,0,93.00,100,93.00,
+competition,xg_aspen_2025_men_b025,long_clips/xg_aspen_2025_men_b025.mp4,xg_aspen_2025_men,Alex Hall,2,0,81.66,100,81.66,
+competition,xg_aspen_2025_men_b027,long_clips/xg_aspen_2025_men_b027.mp4,xg_aspen_2025_men,Troy Podmilsak,2,0,68.66,100,68.66,
+competition,xg_aspen_2025_men_b028,long_clips/xg_aspen_2025_men_b028.mp4,xg_aspen_2025_men,Dylan Deschamps,3,1,20.00,100,20.00,
+competition,xg_aspen_2025_men_b029,long_clips/xg_aspen_2025_men_b029.mp4,xg_aspen_2025_men,Miro Tabanelli,3,0,98.00,100,98.00,
+competition,xg_aspen_2025_men_b030,long_clips/xg_aspen_2025_men_b030.mp4,xg_aspen_2025_men,Luca Harrington,3,0,69.00,100,69.00,
+competition,xg_aspen_2025_men_b031,long_clips/xg_aspen_2025_men_b031.mp4,xg_aspen_2025_men,Mac Forehand,3,1,24.33,100,24.33,
+competition,xg_aspen_2025_men_b032,long_clips/xg_aspen_2025_men_b032.mp4,xg_aspen_2025_men,Birk Ruud,3,0,51.66,100,51.66,
+competition,xg_aspen_2025_men_b033,long_clips/xg_aspen_2025_men_b033.mp4,xg_aspen_2025_men,Matej Svancer,3,0,90.66,100,90.66,
+competition,xg_aspen_2025_men_b034,long_clips/xg_aspen_2025_men_b034.mp4,xg_aspen_2025_men,Alex Hall,3,1,23.66,100,23.66,
+competition,xg_aspen_2025_men_b037,long_clips/xg_aspen_2025_men_b037.mp4,xg_aspen_2025_men,Troy Podmilsak,3,0,87.00,100,87.00,
+competition,xg_aspen_2025_men_b040,long_clips/xg_aspen_2025_men_b040.mp4,xg_aspen_2025_men,Matej Svancer,4,0,96.33,100,96.33,
+competition,xg_aspen_2025_men_b042,long_clips/xg_aspen_2025_men_b042.mp4,xg_aspen_2025_men,Troy Podmilsak,4,0,94.66,100,94.66,
+competition,xg_aspen_2025_men_b044,long_clips/xg_aspen_2025_men_b044.mp4,xg_aspen_2025_men,Luca Harrington,4,0,95.33,100,95.33,
+competition,xg_aspen_2025_men_b046,long_clips/xg_aspen_2025_men_b046.mp4,xg_aspen_2025_men,Miro Tabanelli,4,0,98.00,100,98.00,
+competition,xg_aspen_2025_men_b047,long_clips/xg_aspen_2025_men_b047.mp4,xg_aspen_2025_men,Matej Svancer,5,0,42.00,100,42.00,
+competition,xg_aspen_2025_men_b048,long_clips/xg_aspen_2025_men_b048.mp4,xg_aspen_2025_men,Troy Podmilsak,5,1,29.33,100,29.33,
+competition,xg_aspen_2025_men_b050,long_clips/xg_aspen_2025_men_b050.mp4,xg_aspen_2025_men,Luca Harrington,5,0,97.00,100,97.00,
+aqa7,aqa_001,AQA-7/Actions/ski_big_air/001.avi,aqa7_ski_big_air,,,0,28,50,56.00,train
+aqa7,aqa_002,AQA-7/Actions/ski_big_air/002.avi,aqa7_ski_big_air,,,0,44,50,88.00,test
+aqa7,aqa_003,AQA-7/Actions/ski_big_air/003.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_004,AQA-7/Actions/ski_big_air/004.avi,aqa7_ski_big_air,,,0,47,50,94.00,train
+aqa7,aqa_005,AQA-7/Actions/ski_big_air/005.avi,aqa7_ski_big_air,,,0,47,50,94.00,test
+aqa7,aqa_006,AQA-7/Actions/ski_big_air/006.avi,aqa7_ski_big_air,,,0,42,50,84.00,test
+aqa7,aqa_007,AQA-7/Actions/ski_big_air/007.avi,aqa7_ski_big_air,,,0,34,50,68.00,train
+aqa7,aqa_008,AQA-7/Actions/ski_big_air/008.avi,aqa7_ski_big_air,,,0,34,50,68.00,train
+aqa7,aqa_009,AQA-7/Actions/ski_big_air/009.avi,aqa7_ski_big_air,,,0,18,50,36.00,train
+aqa7,aqa_010,AQA-7/Actions/ski_big_air/010.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_011,AQA-7/Actions/ski_big_air/011.avi,aqa7_ski_big_air,,,0,31,50,62.00,test
+aqa7,aqa_012,AQA-7/Actions/ski_big_air/012.avi,aqa7_ski_big_air,,,0,31,50,62.00,test
+aqa7,aqa_013,AQA-7/Actions/ski_big_air/013.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_014,AQA-7/Actions/ski_big_air/014.avi,aqa7_ski_big_air,,,0,44,50,88.00,test
+aqa7,aqa_015,AQA-7/Actions/ski_big_air/015.avi,aqa7_ski_big_air,,,0,42,50,84.00,train
+aqa7,aqa_016,AQA-7/Actions/ski_big_air/016.avi,aqa7_ski_big_air,,,1,11,50,22.00,test
+aqa7,aqa_017,AQA-7/Actions/ski_big_air/017.avi,aqa7_ski_big_air,,,0,28,50,56.00,test
+aqa7,aqa_018,AQA-7/Actions/ski_big_air/018.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_019,AQA-7/Actions/ski_big_air/019.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_020,AQA-7/Actions/ski_big_air/020.avi,aqa7_ski_big_air,,,0,19,50,38.00,train
+aqa7,aqa_021,AQA-7/Actions/ski_big_air/021.avi,aqa7_ski_big_air,,,0,26,50,52.00,train
+aqa7,aqa_022,AQA-7/Actions/ski_big_air/022.avi,aqa7_ski_big_air,,,0,26,50,52.00,train
+aqa7,aqa_023,AQA-7/Actions/ski_big_air/023.avi,aqa7_ski_big_air,,,0,24,50,48.00,test
+aqa7,aqa_024,AQA-7/Actions/ski_big_air/024.avi,aqa7_ski_big_air,,,0,13,50,26.00,train
+aqa7,aqa_025,AQA-7/Actions/ski_big_air/025.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_026,AQA-7/Actions/ski_big_air/026.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_027,AQA-7/Actions/ski_big_air/027.avi,aqa7_ski_big_air,,,0,33,50,66.00,train
+aqa7,aqa_028,AQA-7/Actions/ski_big_air/028.avi,aqa7_ski_big_air,,,0,28,50,56.00,test
+aqa7,aqa_029,AQA-7/Actions/ski_big_air/029.avi,aqa7_ski_big_air,,,0,28,50,56.00,test
+aqa7,aqa_030,AQA-7/Actions/ski_big_air/030.avi,aqa7_ski_big_air,,,0,11,50,22.00,test
+aqa7,aqa_031,AQA-7/Actions/ski_big_air/031.avi,aqa7_ski_big_air,,,0,33,50,66.00,train
+aqa7,aqa_032,AQA-7/Actions/ski_big_air/032.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_033,AQA-7/Actions/ski_big_air/033.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_034,AQA-7/Actions/ski_big_air/034.avi,aqa7_ski_big_air,,,0,14,50,28.00,train
+aqa7,aqa_035,AQA-7/Actions/ski_big_air/035.avi,aqa7_ski_big_air,,,0,14,50,28.00,train
+aqa7,aqa_036,AQA-7/Actions/ski_big_air/036.avi,aqa7_ski_big_air,,,0,29,50,58.00,train
+aqa7,aqa_037,AQA-7/Actions/ski_big_air/037.avi,aqa7_ski_big_air,,,0,37,50,74.00,train
+aqa7,aqa_038,AQA-7/Actions/ski_big_air/038.avi,aqa7_ski_big_air,,,0,37,50,74.00,train
+aqa7,aqa_039,AQA-7/Actions/ski_big_air/039.avi,aqa7_ski_big_air,,,0,37,50,74.00,train
+aqa7,aqa_040,AQA-7/Actions/ski_big_air/040.avi,aqa7_ski_big_air,,,0,39,50,78.00,train
+aqa7,aqa_041,AQA-7/Actions/ski_big_air/041.avi,aqa7_ski_big_air,,,0,41,50,82.00,test
+aqa7,aqa_042,AQA-7/Actions/ski_big_air/042.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_043,AQA-7/Actions/ski_big_air/043.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_044,AQA-7/Actions/ski_big_air/044.avi,aqa7_ski_big_air,,,0,37,50,74.00,test
+aqa7,aqa_045,AQA-7/Actions/ski_big_air/045.avi,aqa7_ski_big_air,,,0,36,50,72.00,train
+aqa7,aqa_046,AQA-7/Actions/ski_big_air/046.avi,aqa7_ski_big_air,,,0,39,50,78.00,train
+aqa7,aqa_047,AQA-7/Actions/ski_big_air/047.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_048,AQA-7/Actions/ski_big_air/048.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_049,AQA-7/Actions/ski_big_air/049.avi,aqa7_ski_big_air,,,0,41,50,82.00,train
+aqa7,aqa_050,AQA-7/Actions/ski_big_air/050.avi,aqa7_ski_big_air,,,0,42,50,84.00,train
+aqa7,aqa_051,AQA-7/Actions/ski_big_air/051.avi,aqa7_ski_big_air,,,0,42,50,84.00,train
+aqa7,aqa_052,AQA-7/Actions/ski_big_air/052.avi,aqa7_ski_big_air,,,0,33,50,66.00,train
+aqa7,aqa_053,AQA-7/Actions/ski_big_air/053.avi,aqa7_ski_big_air,,,0,33,50,66.00,train
+aqa7,aqa_054,AQA-7/Actions/ski_big_air/054.avi,aqa7_ski_big_air,,,0,30,50,60.00,train
+aqa7,aqa_055,AQA-7/Actions/ski_big_air/055.avi,aqa7_ski_big_air,,,0,37,50,74.00,train
+aqa7,aqa_056,AQA-7/Actions/ski_big_air/056.avi,aqa7_ski_big_air,,,0,33,50,66.00,test
+aqa7,aqa_057,AQA-7/Actions/ski_big_air/057.avi,aqa7_ski_big_air,,,0,41,50,82.00,train
+aqa7,aqa_058,AQA-7/Actions/ski_big_air/058.avi,aqa7_ski_big_air,,,0,41,50,82.00,train
+aqa7,aqa_059,AQA-7/Actions/ski_big_air/059.avi,aqa7_ski_big_air,,,0,23,50,46.00,train
+aqa7,aqa_060,AQA-7/Actions/ski_big_air/060.avi,aqa7_ski_big_air,,,0,23,50,46.00,train
+aqa7,aqa_061,AQA-7/Actions/ski_big_air/061.avi,aqa7_ski_big_air,,,1,11,50,22.00,train
+aqa7,aqa_062,AQA-7/Actions/ski_big_air/062.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_063,AQA-7/Actions/ski_big_air/063.avi,aqa7_ski_big_air,,,0,44,50,88.00,test
+aqa7,aqa_064,AQA-7/Actions/ski_big_air/064.avi,aqa7_ski_big_air,,,0,43,50,86.00,train
+aqa7,aqa_065,AQA-7/Actions/ski_big_air/065.avi,aqa7_ski_big_air,,,0,32,50,64.00,train
+aqa7,aqa_066,AQA-7/Actions/ski_big_air/066.avi,aqa7_ski_big_air,,,1,13,50,26.00,train
+aqa7,aqa_067,AQA-7/Actions/ski_big_air/067.avi,aqa7_ski_big_air,,,0,23,50,46.00,train
+aqa7,aqa_068,AQA-7/Actions/ski_big_air/068.avi,aqa7_ski_big_air,,,0,29,50,58.00,train
+aqa7,aqa_069,AQA-7/Actions/ski_big_air/069.avi,aqa7_ski_big_air,,,0,29,50,58.00,test
+aqa7,aqa_070,AQA-7/Actions/ski_big_air/070.avi,aqa7_ski_big_air,,,0,40,50,80.00,test
+aqa7,aqa_071,AQA-7/Actions/ski_big_air/071.avi,aqa7_ski_big_air,,,0,36,50,72.00,train
+aqa7,aqa_072,AQA-7/Actions/ski_big_air/072.avi,aqa7_ski_big_air,,,0,37,50,74.00,train
+aqa7,aqa_073,AQA-7/Actions/ski_big_air/073.avi,aqa7_ski_big_air,,,1,14,50,28.00,train
+aqa7,aqa_074,AQA-7/Actions/ski_big_air/074.avi,aqa7_ski_big_air,,,0,44,50,88.00,test
+aqa7,aqa_075,AQA-7/Actions/ski_big_air/075.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_076,AQA-7/Actions/ski_big_air/076.avi,aqa7_ski_big_air,,,0,19,50,38.00,train
+aqa7,aqa_077,AQA-7/Actions/ski_big_air/077.avi,aqa7_ski_big_air,,,0,19,50,38.00,train
+aqa7,aqa_078,AQA-7/Actions/ski_big_air/078.avi,aqa7_ski_big_air,,,1,14,50,28.00,train
+aqa7,aqa_079,AQA-7/Actions/ski_big_air/079.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_080,AQA-7/Actions/ski_big_air/080.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_081,AQA-7/Actions/ski_big_air/081.avi,aqa7_ski_big_air,,,0,32,50,64.00,train
+aqa7,aqa_082,AQA-7/Actions/ski_big_air/082.avi,aqa7_ski_big_air,,,0,47,50,94.00,test
+aqa7,aqa_083,AQA-7/Actions/ski_big_air/083.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_084,AQA-7/Actions/ski_big_air/084.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_085,AQA-7/Actions/ski_big_air/085.avi,aqa7_ski_big_air,,,0,19,50,38.00,test
+aqa7,aqa_086,AQA-7/Actions/ski_big_air/086.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_087,AQA-7/Actions/ski_big_air/087.avi,aqa7_ski_big_air,,,1,12,50,24.00,test
+aqa7,aqa_088,AQA-7/Actions/ski_big_air/088.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_089,AQA-7/Actions/ski_big_air/089.avi,aqa7_ski_big_air,,,1,13,50,26.00,test
+aqa7,aqa_090,AQA-7/Actions/ski_big_air/090.avi,aqa7_ski_big_air,,,1,11,50,22.00,test
+aqa7,aqa_091,AQA-7/Actions/ski_big_air/091.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_092,AQA-7/Actions/ski_big_air/092.avi,aqa7_ski_big_air,,,0,35,50,70.00,train
+aqa7,aqa_093,AQA-7/Actions/ski_big_air/093.avi,aqa7_ski_big_air,,,0,35,50,70.00,train
+aqa7,aqa_094,AQA-7/Actions/ski_big_air/094.avi,aqa7_ski_big_air,,,0,40,50,80.00,train
+aqa7,aqa_095,AQA-7/Actions/ski_big_air/095.avi,aqa7_ski_big_air,,,0,38,50,76.00,test
+aqa7,aqa_096,AQA-7/Actions/ski_big_air/096.avi,aqa7_ski_big_air,,,0,38,50,76.00,test
+aqa7,aqa_097,AQA-7/Actions/ski_big_air/097.avi,aqa7_ski_big_air,,,0,42,50,84.00,train
+aqa7,aqa_098,AQA-7/Actions/ski_big_air/098.avi,aqa7_ski_big_air,,,0,36,50,72.00,test
+aqa7,aqa_099,AQA-7/Actions/ski_big_air/099.avi,aqa7_ski_big_air,,,0,31,50,62.00,test
+aqa7,aqa_100,AQA-7/Actions/ski_big_air/100.avi,aqa7_ski_big_air,,,0,17,50,34.00,train
+aqa7,aqa_101,AQA-7/Actions/ski_big_air/101.avi,aqa7_ski_big_air,,,0,12,50,24.00,train
+aqa7,aqa_102,AQA-7/Actions/ski_big_air/102.avi,aqa7_ski_big_air,,,1,12,50,24.00,test
+aqa7,aqa_103,AQA-7/Actions/ski_big_air/103.avi,aqa7_ski_big_air,,,1,12,50,24.00,test
+aqa7,aqa_104,AQA-7/Actions/ski_big_air/104.avi,aqa7_ski_big_air,,,1,12,50,24.00,train
+aqa7,aqa_105,AQA-7/Actions/ski_big_air/105.avi,aqa7_ski_big_air,,,0,38,50,76.00,test
+aqa7,aqa_106,AQA-7/Actions/ski_big_air/106.avi,aqa7_ski_big_air,,,0,35,50,70.00,test
+aqa7,aqa_107,AQA-7/Actions/ski_big_air/107.avi,aqa7_ski_big_air,,,1,12,50,24.00,test
+aqa7,aqa_108,AQA-7/Actions/ski_big_air/108.avi,aqa7_ski_big_air,,,0,37,50,74.00,test
+aqa7,aqa_109,AQA-7/Actions/ski_big_air/109.avi,aqa7_ski_big_air,,,0,31,50,62.00,test
+aqa7,aqa_110,AQA-7/Actions/ski_big_air/110.avi,aqa7_ski_big_air,,,0,31,50,62.00,train
+aqa7,aqa_111,AQA-7/Actions/ski_big_air/111.avi,aqa7_ski_big_air,,,0,41,50,82.00,train
+aqa7,aqa_112,AQA-7/Actions/ski_big_air/112.avi,aqa7_ski_big_air,,,0,30,50,60.00,train
+aqa7,aqa_113,AQA-7/Actions/ski_big_air/113.avi,aqa7_ski_big_air,,,0,30,50,60.00,test
+aqa7,aqa_114,AQA-7/Actions/ski_big_air/114.avi,aqa7_ski_big_air,,,0,29,50,58.00,train
+aqa7,aqa_115,AQA-7/Actions/ski_big_air/115.avi,aqa7_ski_big_air,,,0,32,50,64.00,train
+aqa7,aqa_116,AQA-7/Actions/ski_big_air/116.avi,aqa7_ski_big_air,,,0,20,50,40.00,train
+aqa7,aqa_117,AQA-7/Actions/ski_big_air/117.avi,aqa7_ski_big_air,,,0,40,50,80.00,train
+aqa7,aqa_118,AQA-7/Actions/ski_big_air/118.avi,aqa7_ski_big_air,,,0,40,50,80.00,train
+aqa7,aqa_119,AQA-7/Actions/ski_big_air/119.avi,aqa7_ski_big_air,,,0,46,50,92.00,test
+aqa7,aqa_120,AQA-7/Actions/ski_big_air/120.avi,aqa7_ski_big_air,,,0,46,50,92.00,test
+aqa7,aqa_121,AQA-7/Actions/ski_big_air/121.avi,aqa7_ski_big_air,,,0,46,50,92.00,train
+aqa7,aqa_122,AQA-7/Actions/ski_big_air/122.avi,aqa7_ski_big_air,,,0,46,50,92.00,train
+aqa7,aqa_123,AQA-7/Actions/ski_big_air/123.avi,aqa7_ski_big_air,,,0,38,50,76.00,train
+aqa7,aqa_124,AQA-7/Actions/ski_big_air/124.avi,aqa7_ski_big_air,,,0,38,50,76.00,train
+aqa7,aqa_125,AQA-7/Actions/ski_big_air/125.avi,aqa7_ski_big_air,,,0,47,50,94.00,train
+aqa7,aqa_126,AQA-7/Actions/ski_big_air/126.avi,aqa7_ski_big_air,,,0,41,50,82.00,test
+aqa7,aqa_127,AQA-7/Actions/ski_big_air/127.avi,aqa7_ski_big_air,,,0,41,50,82.00,train
+aqa7,aqa_128,AQA-7/Actions/ski_big_air/128.avi,aqa7_ski_big_air,,,0,50,50,100.00,train
+aqa7,aqa_129,AQA-7/Actions/ski_big_air/129.avi,aqa7_ski_big_air,,,0,26,50,52.00,test
+aqa7,aqa_130,AQA-7/Actions/ski_big_air/130.avi,aqa7_ski_big_air,,,0,19,50,38.00,train
+aqa7,aqa_131,AQA-7/Actions/ski_big_air/131.avi,aqa7_ski_big_air,,,1,19,50,38.00,train
+aqa7,aqa_132,AQA-7/Actions/ski_big_air/132.avi,aqa7_ski_big_air,,,1,26,50,52.00,train
+aqa7,aqa_133,AQA-7/Actions/ski_big_air/133.avi,aqa7_ski_big_air,,,0,21,50,42.00,train
+aqa7,aqa_134,AQA-7/Actions/ski_big_air/134.avi,aqa7_ski_big_air,,,0,21,50,42.00,test
+aqa7,aqa_135,AQA-7/Actions/ski_big_air/135.avi,aqa7_ski_big_air,,,0,32,50,64.00,train
+aqa7,aqa_136,AQA-7/Actions/ski_big_air/136.avi,aqa7_ski_big_air,,,0,24,50,48.00,test
+aqa7,aqa_137,AQA-7/Actions/ski_big_air/137.avi,aqa7_ski_big_air,,,0,36,50,72.00,train
+aqa7,aqa_138,AQA-7/Actions/ski_big_air/138.avi,aqa7_ski_big_air,,,0,36,50,72.00,test
+aqa7,aqa_139,AQA-7/Actions/ski_big_air/139.avi,aqa7_ski_big_air,,,0,35,50,70.00,train
+aqa7,aqa_140,AQA-7/Actions/ski_big_air/140.avi,aqa7_ski_big_air,,,0,35,50,70.00,train
+aqa7,aqa_141,AQA-7/Actions/ski_big_air/141.avi,aqa7_ski_big_air,,,0,26,50,52.00,train
+aqa7,aqa_142,AQA-7/Actions/ski_big_air/142.avi,aqa7_ski_big_air,,,0,26,50,52.00,train
+aqa7,aqa_143,AQA-7/Actions/ski_big_air/143.avi,aqa7_ski_big_air,,,0,18,50,36.00,train
+aqa7,aqa_144,AQA-7/Actions/ski_big_air/144.avi,aqa7_ski_big_air,,,0,33,50,66.00,train
+aqa7,aqa_145,AQA-7/Actions/ski_big_air/145.avi,aqa7_ski_big_air,,,0,33,50,66.00,train
+aqa7,aqa_146,AQA-7/Actions/ski_big_air/146.avi,aqa7_ski_big_air,,,0,38,50,76.00,test
+aqa7,aqa_147,AQA-7/Actions/ski_big_air/147.avi,aqa7_ski_big_air,,,0,38,50,76.00,train
+aqa7,aqa_148,AQA-7/Actions/ski_big_air/148.avi,aqa7_ski_big_air,,,0,36,50,72.00,test
+aqa7,aqa_149,AQA-7/Actions/ski_big_air/149.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_150,AQA-7/Actions/ski_big_air/150.avi,aqa7_ski_big_air,,,0,44,50,88.00,train
+aqa7,aqa_151,AQA-7/Actions/ski_big_air/151.avi,aqa7_ski_big_air,,,0,44,50,88.00,test
+aqa7,aqa_152,AQA-7/Actions/ski_big_air/152.avi,aqa7_ski_big_air,,,1,15,50,30.00,train
+aqa7,aqa_153,AQA-7/Actions/ski_big_air/153.avi,aqa7_ski_big_air,,,0,34,50,68.00,train
+aqa7,aqa_154,AQA-7/Actions/ski_big_air/154.avi,aqa7_ski_big_air,,,0,41,50,82.00,train
+aqa7,aqa_155,AQA-7/Actions/ski_big_air/155.avi,aqa7_ski_big_air,,,0,41,50,82.00,train
+aqa7,aqa_156,AQA-7/Actions/ski_big_air/156.avi,aqa7_ski_big_air,,,0,45,50,90.00,train
+aqa7,aqa_157,AQA-7/Actions/ski_big_air/157.avi,aqa7_ski_big_air,,,0,45,50,90.00,test
+aqa7,aqa_158,AQA-7/Actions/ski_big_air/158.avi,aqa7_ski_big_air,,,0,22,50,44.00,train
+aqa7,aqa_159,AQA-7/Actions/ski_big_air/159.avi,aqa7_ski_big_air,,,0,31,50,62.00,train
+aqa7,aqa_160,AQA-7/Actions/ski_big_air/160.avi,aqa7_ski_big_air,,,0,31,50,62.00,test
+aqa7,aqa_161,AQA-7/Actions/ski_big_air/161.avi,aqa7_ski_big_air,,,0,37,50,74.00,train
+aqa7,aqa_162,AQA-7/Actions/ski_big_air/162.avi,aqa7_ski_big_air,,,0,39,50,78.00,test
+aqa7,aqa_163,AQA-7/Actions/ski_big_air/163.avi,aqa7_ski_big_air,,,0,35,50,70.00,train
+aqa7,aqa_164,AQA-7/Actions/ski_big_air/164.avi,aqa7_ski_big_air,,,0,43,50,86.00,test
+aqa7,aqa_165,AQA-7/Actions/ski_big_air/165.avi,aqa7_ski_big_air,,,0,43,50,86.00,train
+aqa7,aqa_166,AQA-7/Actions/ski_big_air/166.avi,aqa7_ski_big_air,,,0,40,50,80.00,train
+aqa7,aqa_167,AQA-7/Actions/ski_big_air/167.avi,aqa7_ski_big_air,,,0,40,50,80.00,test
+aqa7,aqa_168,AQA-7/Actions/ski_big_air/168.avi,aqa7_ski_big_air,,,0,42,50,84.00,test
+aqa7,aqa_169,AQA-7/Actions/ski_big_air/169.avi,aqa7_ski_big_air,,,0,41,50,82.00,test
+aqa7,aqa_170,AQA-7/Actions/ski_big_air/170.avi,aqa7_ski_big_air,,,0,21,50,42.00,train
+aqa7,aqa_171,AQA-7/Actions/ski_big_air/171.avi,aqa7_ski_big_air,,,0,8,50,16.00,train
+aqa7,aqa_172,AQA-7/Actions/ski_big_air/172.avi,aqa7_ski_big_air,,,0,27,50,54.00,train
+aqa7,aqa_173,AQA-7/Actions/ski_big_air/173.avi,aqa7_ski_big_air,,,0,8,50,16.00,test
+aqa7,aqa_174,AQA-7/Actions/ski_big_air/174.avi,aqa7_ski_big_air,,,0,11,50,22.00,train
+aqa7,aqa_175,AQA-7/Actions/ski_big_air/175.avi,aqa7_ski_big_air,,,0,15,50,30.00,test
