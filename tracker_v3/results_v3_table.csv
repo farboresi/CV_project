@@ -1,0 +1,22 @@
+features,task,model,MAE,CI95,spearman,AUC,bal_acc
+OLD tracker+features,score,dummy,24.25,"[22.6, 26.0]",,,
+OLD tracker+features,score,ridge,24.72,"[22.5, 27.1]",0.106,,
+OLD tracker+features,score,rf,22.21,"[20.5, 24.0]",0.24,,
+OLD tracker+features,score,hgb,23.09,"[21.0, 25.2]",0.202,,
+OLD tracker+features,score,two_stage,25.36,"[23.1, 27.7]",0.135,,
+OLD tracker+features,fall,logreg,,,,0.679,0.668
+OLD tracker+features,fall,rf,,,,0.69,0.674
+NEW v3,score,dummy,24.25,"[22.6, 26.0]",,,
+NEW v3,score,ridge,19.3,"[17.5, 21.2]",0.416,,
+NEW v3,score,rf,18.44,"[16.8, 20.1]",0.418,,
+NEW v3,score,hgb,18.09,"[16.3, 20.0]",0.429,,
+NEW v3,score,two_stage,19.2,"[17.2, 21.2]",0.388,,
+NEW v3,fall,logreg,,,,0.907,0.803
+NEW v3,fall,rf,,,,0.942,0.87
+NEW v3 pose-only,score,dummy,24.25,"[22.6, 26.0]",,,
+NEW v3 pose-only,score,ridge,19.54,"[17.8, 21.5]",0.387,,
+NEW v3 pose-only,score,rf,18.18,"[16.5, 19.9]",0.421,,
+NEW v3 pose-only,score,hgb,19.41,"[17.5, 21.5]",0.344,,
+NEW v3 pose-only,score,two_stage,20.12,"[18.3, 22.2]",0.378,,
+NEW v3 pose-only,fall,logreg,,,,0.857,0.785
+NEW v3 pose-only,fall,rf,,,,0.894,0.84

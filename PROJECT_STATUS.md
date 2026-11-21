@@ -926,3 +926,37 @@ These are settled; do not reopen without new data.
 - No git repository — all changes are uncommitted and unrecoverable from
   history.  Read this file before quoting any number.
 
+
+
+## 2026-11-19 — Tracker v3 rebuild + retrain (competition clips)
+
+**Problem found** (train_check videos b002, b004, women_029): the old Viterbi tracker
+had to output somebody every frame, so when the athlete was hidden or tiny it locked
+onto the skier drawn on the Pacifico banner, the cameraman at the landing, or crowd
+spectators.  Its ground-motion test was computed over the whole stitched path, so the
+static pieces were hidden by the athlete's flight.
+
+**New pipeline: `tracker_v3/`** (see `tracker_v3/README.md`)
+- YOLO11s person + skis detection, camera motion (LK + RANSAC similarity), clean
+  camera-compensated tracklets, tracklet scoring (static-in-world → rejected, skis
+  under feet, confidence, centring), per-shot chain DP where "no skier" is allowed,
+  zoomed-tile second pass, pose on upscaled crops with rotation fallback.
+- OpenVINO only (no PyTorch), ~50 s/clip on 2 CPU cores.
+- New pose cache: `pose_v3/` (217 competition clips; `_pose.npy`, `_pose_meta.json`,
+  `_cam.npz`).  Median pose coverage 0.87.  `roi_pose_dataset/` untouched.
+- Features: `tracker_v3/features_v3.py` → `tracker_v3/features_v3.csv`.
+- Models: `tracker_v3/train_v3.py`, **leave-one-competition-out** (7 folds).
+
+**Results (217 clips, 42 falls)**
+| | score MAE [95% CI] | fall AUC |
+|---|---|---|
+| dummy | 24.3 [22.6, 26.0] | – |
+| old tracker + old features (best, RF) | 22.2 [20.5, 24.0] | 0.69 |
+| v3 HistGB / RF | 18.1 [16.3, 20.0] / 18.4 | 0.94 (RF) |
+| v3 pose-only ablation (RF) | 18.2 [16.5, 19.9] | 0.89 |
+Beats the dummy on every held-out competition (2026_men ≈ tie).  Gain is mostly fall
+detection (fall MAE 20.8 vs 45.4 dummy; clean 17.4 vs 19.2).
+
+**Known limitations**: spectator picked in final crowd close-ups (~1 s); person by the
+fence can win briefly during night whip-pans into the sky; ~10 px skiers at the top of
+Olympic wide shots undetected; AQA-7 clips not re-tracked.

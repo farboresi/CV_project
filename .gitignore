@@ -9,3 +9,7 @@ reshaped_videos/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# local scratch
+tracker_v3/_to_delete/
+check_output/
