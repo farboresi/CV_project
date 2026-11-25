@@ -1,0 +1,186 @@
+clip,model,group,category,n,frac_of_group
+027,yolo11m-pose,gap_far,any_cand,1,0.16666666666666666
+027,yolo11m-pose,gap_far,no_cand,5,0.8333333333333334
+027,yolo11m-pose,gap_near,near_cand,7,0.35
+027,yolo11m-pose,gap_near,no_cand,4,0.2
+027,yolo11m-pose,gap_near,other_cand,9,0.45
+027,yolo11m-pose,tracked,agree,9,1.0
+027,yolo11x-pose,gap_far,any_cand,2,0.3333333333333333
+027,yolo11x-pose,gap_far,no_cand,4,0.6666666666666666
+027,yolo11x-pose,gap_near,near_cand,7,0.35
+027,yolo11x-pose,gap_near,no_cand,1,0.05
+027,yolo11x-pose,gap_near,other_cand,12,0.6
+027,yolo11x-pose,tracked,agree,8,0.8888888888888888
+027,yolo11x-pose,tracked,miss,1,0.1111111111111111
+027,yolov8n-pose,gap_far,any_cand,2,0.3333333333333333
+027,yolov8n-pose,gap_far,no_cand,4,0.6666666666666666
+027,yolov8n-pose,gap_near,near_cand,7,0.35
+027,yolov8n-pose,gap_near,other_cand,13,0.65
+027,yolov8n-pose,tracked,agree,9,1.0
+037,yolo11m-pose,gap_far,any_cand,2,0.2222222222222222
+037,yolo11m-pose,gap_far,no_cand,7,0.7777777777777778
+037,yolo11m-pose,gap_near,near_cand,4,0.2
+037,yolo11m-pose,gap_near,no_cand,6,0.3
+037,yolo11m-pose,gap_near,other_cand,10,0.5
+037,yolo11m-pose,tracked,agree,5,0.8333333333333334
+037,yolo11m-pose,tracked,miss,1,0.16666666666666666
+037,yolo11x-pose,gap_far,any_cand,2,0.2222222222222222
+037,yolo11x-pose,gap_far,no_cand,7,0.7777777777777778
+037,yolo11x-pose,gap_near,near_cand,4,0.2
+037,yolo11x-pose,gap_near,no_cand,2,0.1
+037,yolo11x-pose,gap_near,other_cand,14,0.7
+037,yolo11x-pose,tracked,agree,4,0.6666666666666666
+037,yolo11x-pose,tracked,miss,2,0.3333333333333333
+037,yolov8n-pose,gap_far,any_cand,2,0.2222222222222222
+037,yolov8n-pose,gap_far,no_cand,7,0.7777777777777778
+037,yolov8n-pose,gap_near,near_cand,4,0.2
+037,yolov8n-pose,gap_near,no_cand,2,0.1
+037,yolov8n-pose,gap_near,other_cand,14,0.7
+037,yolov8n-pose,tracked,agree,5,0.8333333333333334
+037,yolov8n-pose,tracked,miss,1,0.16666666666666666
+038,yolo11m-pose,gap_far,any_cand,10,0.5882352941176471
+038,yolo11m-pose,gap_far,no_cand,7,0.4117647058823529
+038,yolo11m-pose,gap_near,no_cand,4,0.3076923076923077
+038,yolo11m-pose,gap_near,other_cand,9,0.6923076923076923
+038,yolo11m-pose,tracked,agree,2,0.4
+038,yolo11m-pose,tracked,miss,3,0.6
+038,yolo11x-pose,gap_far,any_cand,13,0.7647058823529411
+038,yolo11x-pose,gap_far,no_cand,4,0.23529411764705882
+038,yolo11x-pose,gap_near,no_cand,3,0.23076923076923078
+038,yolo11x-pose,gap_near,other_cand,10,0.7692307692307693
+038,yolo11x-pose,tracked,agree,2,0.4
+038,yolo11x-pose,tracked,miss,3,0.6
+038,yolov8n-pose,gap_far,any_cand,16,0.9411764705882353
+038,yolov8n-pose,gap_far,no_cand,1,0.058823529411764705
+038,yolov8n-pose,gap_near,near_cand,1,0.07692307692307693
+038,yolov8n-pose,gap_near,no_cand,4,0.3076923076923077
+038,yolov8n-pose,gap_near,other_cand,8,0.6153846153846154
+038,yolov8n-pose,tracked,agree,3,0.6
+038,yolov8n-pose,tracked,miss,2,0.4
+065,yolo11m-pose,gap_far,any_cand,12,0.75
+065,yolo11m-pose,gap_far,no_cand,4,0.25
+065,yolo11m-pose,gap_near,no_cand,5,0.38461538461538464
+065,yolo11m-pose,gap_near,other_cand,8,0.6153846153846154
+065,yolo11m-pose,tracked,agree,1,0.16666666666666666
+065,yolo11m-pose,tracked,miss,5,0.8333333333333334
+065,yolo11x-pose,gap_far,any_cand,14,0.875
+065,yolo11x-pose,gap_far,no_cand,2,0.125
+065,yolo11x-pose,gap_near,no_cand,6,0.46153846153846156
+065,yolo11x-pose,gap_near,other_cand,7,0.5384615384615384
+065,yolo11x-pose,tracked,agree,2,0.3333333333333333
+065,yolo11x-pose,tracked,miss,4,0.6666666666666666
+065,yolov8n-pose,gap_far,any_cand,16,1.0
+065,yolov8n-pose,gap_near,no_cand,3,0.23076923076923078
+065,yolov8n-pose,gap_near,other_cand,10,0.7692307692307693
+065,yolov8n-pose,tracked,agree,1,0.16666666666666666
+065,yolov8n-pose,tracked,miss,5,0.8333333333333334
+067,yolo11m-pose,gap_far,any_cand,1,0.1
+067,yolo11m-pose,gap_far,no_cand,9,0.9
+067,yolo11m-pose,gap_near,near_cand,7,0.35
+067,yolo11m-pose,gap_near,no_cand,3,0.15
+067,yolo11m-pose,gap_near,other_cand,10,0.5
+067,yolo11m-pose,tracked,agree,2,0.4
+067,yolo11m-pose,tracked,miss,3,0.6
+067,yolo11x-pose,gap_far,any_cand,3,0.3
+067,yolo11x-pose,gap_far,no_cand,7,0.7
+067,yolo11x-pose,gap_near,near_cand,10,0.5
+067,yolo11x-pose,gap_near,no_cand,1,0.05
+067,yolo11x-pose,gap_near,other_cand,9,0.45
+067,yolo11x-pose,tracked,agree,2,0.4
+067,yolo11x-pose,tracked,miss,3,0.6
+067,yolov8n-pose,gap_far,any_cand,3,0.3
+067,yolov8n-pose,gap_far,no_cand,7,0.7
+067,yolov8n-pose,gap_near,near_cand,9,0.45
+067,yolov8n-pose,gap_near,other_cand,11,0.55
+067,yolov8n-pose,tracked,miss,5,1.0
+1026 (1)(2)-33,yolo11m-pose,gap_far,any_cand,10,1.0
+1026 (1)(2)-33,yolo11m-pose,gap_near,near_cand,2,0.13333333333333333
+1026 (1)(2)-33,yolo11m-pose,gap_near,no_cand,5,0.3333333333333333
+1026 (1)(2)-33,yolo11m-pose,gap_near,other_cand,8,0.5333333333333333
+1026 (1)(2)-33,yolo11m-pose,tracked,agree,8,0.5714285714285714
+1026 (1)(2)-33,yolo11m-pose,tracked,miss,6,0.42857142857142855
+1026 (1)(2)-33,yolo11x-pose,gap_far,any_cand,10,1.0
+1026 (1)(2)-33,yolo11x-pose,gap_near,near_cand,3,0.2
+1026 (1)(2)-33,yolo11x-pose,gap_near,no_cand,4,0.26666666666666666
+1026 (1)(2)-33,yolo11x-pose,gap_near,other_cand,8,0.5333333333333333
+1026 (1)(2)-33,yolo11x-pose,tracked,agree,9,0.6428571428571429
+1026 (1)(2)-33,yolo11x-pose,tracked,miss,5,0.35714285714285715
+1026 (1)(2)-33,yolov8n-pose,gap_far,any_cand,9,0.9
+1026 (1)(2)-33,yolov8n-pose,gap_far,no_cand,1,0.1
+1026 (1)(2)-33,yolov8n-pose,gap_near,near_cand,1,0.06666666666666667
+1026 (1)(2)-33,yolov8n-pose,gap_near,no_cand,2,0.13333333333333333
+1026 (1)(2)-33,yolov8n-pose,gap_near,other_cand,12,0.8
+1026 (1)(2)-33,yolov8n-pose,tracked,agree,10,0.7142857142857143
+1026 (1)(2)-33,yolov8n-pose,tracked,miss,4,0.2857142857142857
+xg_aspen_2026_men_002,yolo11m-pose,gap_far,any_cand,127,0.8881118881118881
+xg_aspen_2026_men_002,yolo11m-pose,gap_far,no_cand,16,0.11188811188811189
+xg_aspen_2026_men_002,yolo11m-pose,gap_near,no_cand,6,0.42857142857142855
+xg_aspen_2026_men_002,yolo11m-pose,gap_near,other_cand,8,0.5714285714285714
+xg_aspen_2026_men_002,yolo11m-pose,tracked,agree,204,0.8755364806866953
+xg_aspen_2026_men_002,yolo11m-pose,tracked,miss,29,0.12446351931330472
+xg_aspen_2026_men_002,yolo11x-pose,gap_far,any_cand,127,0.8881118881118881
+xg_aspen_2026_men_002,yolo11x-pose,gap_far,no_cand,16,0.11188811188811189
+xg_aspen_2026_men_002,yolo11x-pose,gap_near,no_cand,4,0.2857142857142857
+xg_aspen_2026_men_002,yolo11x-pose,gap_near,other_cand,10,0.7142857142857143
+xg_aspen_2026_men_002,yolo11x-pose,tracked,agree,189,0.8111587982832618
+xg_aspen_2026_men_002,yolo11x-pose,tracked,miss,44,0.1888412017167382
+xg_aspen_2026_men_002,yolov8n-pose,gap_far,any_cand,137,0.958041958041958
+xg_aspen_2026_men_002,yolov8n-pose,gap_far,no_cand,6,0.04195804195804196
+xg_aspen_2026_men_002,yolov8n-pose,gap_near,no_cand,7,0.5
+xg_aspen_2026_men_002,yolov8n-pose,gap_near,other_cand,7,0.5
+xg_aspen_2026_men_002,yolov8n-pose,tracked,agree,222,0.9527896995708155
+xg_aspen_2026_men_002,yolov8n-pose,tracked,miss,11,0.04721030042918455
+xg_aspen_2026_women_007,yolo11m-pose,gap_far,any_cand,140,0.8588957055214724
+xg_aspen_2026_women_007,yolo11m-pose,gap_far,no_cand,23,0.1411042944785276
+xg_aspen_2026_women_007,yolo11m-pose,gap_near,near_cand,1,0.03333333333333333
+xg_aspen_2026_women_007,yolo11m-pose,gap_near,no_cand,26,0.8666666666666667
+xg_aspen_2026_women_007,yolo11m-pose,gap_near,other_cand,3,0.1
+xg_aspen_2026_women_007,yolo11m-pose,tracked,agree,306,0.7338129496402878
+xg_aspen_2026_women_007,yolo11m-pose,tracked,miss,111,0.26618705035971224
+xg_aspen_2026_women_007,yolo11x-pose,gap_far,any_cand,156,0.9570552147239264
+xg_aspen_2026_women_007,yolo11x-pose,gap_far,no_cand,7,0.04294478527607362
+xg_aspen_2026_women_007,yolo11x-pose,gap_near,near_cand,8,0.26666666666666666
+xg_aspen_2026_women_007,yolo11x-pose,gap_near,no_cand,17,0.5666666666666667
+xg_aspen_2026_women_007,yolo11x-pose,gap_near,other_cand,5,0.16666666666666666
+xg_aspen_2026_women_007,yolo11x-pose,tracked,agree,328,0.7865707434052758
+xg_aspen_2026_women_007,yolo11x-pose,tracked,miss,89,0.21342925659472423
+xg_aspen_2026_women_007,yolov8n-pose,gap_far,any_cand,147,0.901840490797546
+xg_aspen_2026_women_007,yolov8n-pose,gap_far,no_cand,16,0.09815950920245399
+xg_aspen_2026_women_007,yolov8n-pose,gap_near,near_cand,2,0.06666666666666667
+xg_aspen_2026_women_007,yolov8n-pose,gap_near,no_cand,26,0.8666666666666667
+xg_aspen_2026_women_007,yolov8n-pose,gap_near,other_cand,2,0.06666666666666667
+xg_aspen_2026_women_007,yolov8n-pose,tracked,agree,355,0.8513189448441247
+xg_aspen_2026_women_007,yolov8n-pose,tracked,miss,62,0.1486810551558753
+xg_aspen_2026_women_011,yolo11m-pose,gap_far,any_cand,75,0.6147540983606558
+xg_aspen_2026_women_011,yolo11m-pose,gap_far,no_cand,47,0.38524590163934425
+xg_aspen_2026_women_011,yolo11m-pose,gap_near,no_cand,7,0.7
+xg_aspen_2026_women_011,yolo11m-pose,gap_near,other_cand,3,0.3
+xg_aspen_2026_women_011,yolo11m-pose,tracked,agree,185,0.9343434343434344
+xg_aspen_2026_women_011,yolo11m-pose,tracked,miss,13,0.06565656565656566
+xg_aspen_2026_women_011,yolo11x-pose,gap_far,any_cand,111,0.9098360655737705
+xg_aspen_2026_women_011,yolo11x-pose,gap_far,no_cand,11,0.09016393442622951
+xg_aspen_2026_women_011,yolo11x-pose,gap_near,no_cand,9,0.9
+xg_aspen_2026_women_011,yolo11x-pose,gap_near,other_cand,1,0.1
+xg_aspen_2026_women_011,yolo11x-pose,tracked,agree,182,0.9191919191919192
+xg_aspen_2026_women_011,yolo11x-pose,tracked,miss,16,0.08080808080808081
+xg_aspen_2026_women_011,yolov8n-pose,gap_far,any_cand,113,0.9262295081967213
+xg_aspen_2026_women_011,yolov8n-pose,gap_far,no_cand,9,0.07377049180327869
+xg_aspen_2026_women_011,yolov8n-pose,gap_near,no_cand,10,1.0
+xg_aspen_2026_women_011,yolov8n-pose,tracked,agree,186,0.9393939393939394
+xg_aspen_2026_women_011,yolov8n-pose,tracked,miss,12,0.06060606060606061
+xg_aspen_2026_women_038,yolo11m-pose,gap_far,any_cand,35,0.43209876543209874
+xg_aspen_2026_women_038,yolo11m-pose,gap_far,no_cand,46,0.5679012345679012
+xg_aspen_2026_women_038,yolo11m-pose,gap_near,no_cand,5,0.5
+xg_aspen_2026_women_038,yolo11m-pose,gap_near,other_cand,5,0.5
+xg_aspen_2026_women_038,yolo11m-pose,tracked,agree,247,0.9536679536679536
+xg_aspen_2026_women_038,yolo11m-pose,tracked,miss,12,0.04633204633204633
+xg_aspen_2026_women_038,yolo11x-pose,gap_far,any_cand,32,0.3950617283950617
+xg_aspen_2026_women_038,yolo11x-pose,gap_far,no_cand,49,0.6049382716049383
+xg_aspen_2026_women_038,yolo11x-pose,gap_near,no_cand,10,1.0
+xg_aspen_2026_women_038,yolo11x-pose,tracked,agree,250,0.9652509652509652
+xg_aspen_2026_women_038,yolo11x-pose,tracked,miss,9,0.03474903474903475
+xg_aspen_2026_women_038,yolov8n-pose,gap_far,any_cand,81,1.0
+xg_aspen_2026_women_038,yolov8n-pose,gap_near,no_cand,6,0.6
+xg_aspen_2026_women_038,yolov8n-pose,gap_near,other_cand,4,0.4
+xg_aspen_2026_women_038,yolov8n-pose,tracked,agree,250,0.9652509652509652
+xg_aspen_2026_women_038,yolov8n-pose,tracked,miss,9,0.03474903474903475

@@ -1,0 +1,235 @@
+filename,pose_feature_path,ski_feature_path,num_frames,track_mode,track_frames,n_shots,n_camera_shots,primary_shot,primary_span,pose_coverage,gate_checks,gate_rejects,gate_reject_frac,gate_splits,target
+1,roi_pose_dataset\001_pose.npy,ski_dataset\001_ski.npz,103,longest,63,1,1,all,103,0.767,2456,18,0.0073,0,56.0
+2,roi_pose_dataset\002_pose.npy,ski_dataset\002_ski.npz,103,longest,25,1,1,all,103,0.621,620,0,0.0,0,88.0
+3,roi_pose_dataset\003_pose.npy,ski_dataset\003_ski.npz,103,longest,45,1,1,all,103,0.99,2232,8,0.0036,0,88.0
+4,roi_pose_dataset\004_pose.npy,ski_dataset\004_ski.npz,103,longest,36,1,1,all,103,0.854,2468,88,0.0357,0,94.0
+5,roi_pose_dataset\005_pose.npy,ski_dataset\005_ski.npz,103,longest,38,1,1,all,103,0.883,2626,124,0.0472,0,94.0
+6,roi_pose_dataset\006_pose.npy,ski_dataset\006_ski.npz,103,longest,49,1,1,all,103,0.65,1633,4,0.0024,0,84.0
+7,roi_pose_dataset\007_pose.npy,ski_dataset\007_ski.npz,103,longest,10,1,1,all,103,0.65,373,12,0.0322,0,68.0
+8,roi_pose_dataset\008_pose.npy,ski_dataset\008_ski.npz,103,longest,52,1,1,all,103,0.99,6156,13,0.0021,0,68.0
+9,roi_pose_dataset\009_pose.npy,ski_dataset\009_ski.npz,103,longest,70,1,1,all,103,0.961,11525,1201,0.1042,0,36.0
+10,roi_pose_dataset\010_pose.npy,ski_dataset\010_ski.npz,103,longest,44,1,1,all,103,0.68,2675,36,0.0135,0,26.0
+11,roi_pose_dataset\011_pose.npy,ski_dataset\011_ski.npz,103,longest,25,1,1,all,103,0.709,4314,157,0.0364,0,62.0
+12,roi_pose_dataset\012_pose.npy,ski_dataset\012_ski.npz,103,longest,51,1,1,all,103,0.99,2012,58,0.0288,0,62.0
+13,roi_pose_dataset\013_pose.npy,ski_dataset\013_ski.npz,103,longest,17,1,1,all,103,0.379,280,0,0.0,0,88.0
+14,roi_pose_dataset\014_pose.npy,ski_dataset\014_ski.npz,103,longest,17,1,1,all,103,0.718,1069,111,0.1038,0,88.0
+15,roi_pose_dataset\015_pose.npy,ski_dataset\015_ski.npz,103,longest,36,1,1,all,103,0.524,782,5,0.0064,0,84.0
+16,roi_pose_dataset\016_pose.npy,ski_dataset\016_ski.npz,103,longest,55,1,1,all,103,0.67,1670,0,0.0,0,22.0
+17,roi_pose_dataset\017_pose.npy,ski_dataset\017_ski.npz,103,longest,6,1,1,all,103,0.301,76,0,0.0,0,56.0
+18,roi_pose_dataset\018_pose.npy,ski_dataset\018_ski.npz,103,longest,60,1,1,all,103,0.786,2008,0,0.0,0,26.0
+19,roi_pose_dataset\019_pose.npy,ski_dataset\019_ski.npz,103,longest,58,1,1,all,103,1.0,6960,70,0.0101,0,26.0
+20,roi_pose_dataset\020_pose.npy,ski_dataset\020_ski.npz,103,longest,20,1,1,all,103,0.689,1412,33,0.0234,0,38.0
+21,roi_pose_dataset\021_pose.npy,ski_dataset\021_ski.npz,103,longest,44,1,1,all,103,0.903,2538,154,0.0607,0,52.0
+22,roi_pose_dataset\022_pose.npy,ski_dataset\022_ski.npz,103,longest,29,1,1,all,103,0.437,1309,48,0.0367,0,52.0
+23,roi_pose_dataset\023_pose.npy,ski_dataset\023_ski.npz,103,longest,17,1,1,all,103,0.34,275,2,0.0073,0,48.0
+24,roi_pose_dataset\024_pose.npy,ski_dataset\024_ski.npz,103,longest,14,1,1,all,103,0.524,270,14,0.0519,0,26.0
+25,roi_pose_dataset\025_pose.npy,ski_dataset\025_ski.npz,103,longest,37,1,1,all,103,0.883,3870,332,0.0858,0,26.0
+26,roi_pose_dataset\026_pose.npy,ski_dataset\026_ski.npz,103,longest,38,1,1,all,103,0.66,2656,119,0.0448,0,26.0
+27,roi_pose_dataset\027_pose.npy,ski_dataset\027_ski.npz,103,longest,17,1,1,all,103,0.252,444,22,0.0495,0,66.0
+28,roi_pose_dataset\028_pose.npy,ski_dataset\028_ski.npz,103,longest,45,1,1,all,103,0.883,2206,47,0.0213,0,56.0
+29,roi_pose_dataset\029_pose.npy,ski_dataset\029_ski.npz,103,longest,35,1,1,all,103,0.854,5851,608,0.1039,0,56.0
+30,roi_pose_dataset\030_pose.npy,ski_dataset\030_ski.npz,103,longest,18,1,1,all,103,0.515,574,62,0.108,0,22.0
+31,roi_pose_dataset\031_pose.npy,ski_dataset\031_ski.npz,103,longest,22,1,1,all,103,0.738,478,2,0.0042,0,66.0
+32,roi_pose_dataset\032_pose.npy,ski_dataset\032_ski.npz,103,longest,11,1,1,all,103,0.951,728,142,0.1951,0,24.0
+33,roi_pose_dataset\033_pose.npy,ski_dataset\033_ski.npz,103,longest,17,1,1,all,103,0.476,546,4,0.0073,0,24.0
+34,roi_pose_dataset\034_pose.npy,ski_dataset\034_ski.npz,103,longest,43,1,1,all,103,0.777,1883,97,0.0515,0,28.0
+35,roi_pose_dataset\035_pose.npy,ski_dataset\035_ski.npz,103,longest,57,1,1,all,103,1.0,2814,42,0.0149,0,28.0
+36,roi_pose_dataset\036_pose.npy,ski_dataset\036_ski.npz,103,longest,22,1,1,all,103,0.66,884,210,0.2376,0,58.0
+37,roi_pose_dataset\037_pose.npy,ski_dataset\037_ski.npz,103,longest,8,1,1,all,103,0.252,254,28,0.1102,0,74.0
+38,roi_pose_dataset\038_pose.npy,ski_dataset\038_ski.npz,103,longest,4,1,1,all,103,0.039,21,6,0.2857,0,74.0
+39,roi_pose_dataset\039_pose.npy,ski_dataset\039_ski.npz,103,longest,60,1,1,all,103,0.981,1700,0,0.0,0,74.0
+40,roi_pose_dataset\040_pose.npy,ski_dataset\040_ski.npz,103,longest,66,1,1,all,103,0.786,3817,93,0.0244,0,78.0
+41,roi_pose_dataset\041_pose.npy,ski_dataset\041_ski.npz,103,longest,24,1,1,all,103,0.699,692,52,0.0751,0,82.0
+42,roi_pose_dataset\042_pose.npy,ski_dataset\042_ski.npz,103,longest,21,1,1,all,103,0.767,1680,182,0.1083,0,88.0
+43,roi_pose_dataset\043_pose.npy,ski_dataset\043_ski.npz,103,longest,37,1,1,all,103,0.971,1698,6,0.0035,0,88.0
+44,roi_pose_dataset\044_pose.npy,ski_dataset\044_ski.npz,103,longest,16,1,1,all,103,0.65,290,12,0.0414,0,74.0
+45,roi_pose_dataset\045_pose.npy,ski_dataset\045_ski.npz,103,longest,5,1,1,all,103,0.262,46,33,0.7174,0,72.0
+46,roi_pose_dataset\046_pose.npy,ski_dataset\046_ski.npz,103,longest,29,1,1,all,103,0.485,814,12,0.0147,0,78.0
+47,roi_pose_dataset\047_pose.npy,ski_dataset\047_ski.npz,103,longest,20,1,1,all,103,0.495,725,20,0.0276,0,26.0
+48,roi_pose_dataset\048_pose.npy,ski_dataset\048_ski.npz,103,longest,29,2,2,all,103,0.845,1923,217,0.1128,0,26.0
+49,roi_pose_dataset\049_pose.npy,ski_dataset\049_ski.npz,103,longest,15,1,1,all,103,0.437,444,40,0.0901,0,82.0
+50,roi_pose_dataset\050_pose.npy,ski_dataset\050_ski.npz,103,longest,6,1,1,all,103,0.417,165,16,0.097,0,84.0
+51,roi_pose_dataset\051_pose.npy,ski_dataset\051_ski.npz,103,longest,49,1,1,all,103,1.0,2194,68,0.031,0,84.0
+52,roi_pose_dataset\052_pose.npy,ski_dataset\052_ski.npz,103,longest,8,1,1,all,103,0.447,1426,318,0.223,0,66.0
+53,roi_pose_dataset\053_pose.npy,ski_dataset\053_ski.npz,103,longest,19,1,1,all,103,0.612,599,36,0.0601,0,66.0
+54,roi_pose_dataset\054_pose.npy,ski_dataset\054_ski.npz,103,longest,24,1,1,all,103,0.534,726,52,0.0716,0,60.0
+55,roi_pose_dataset\055_pose.npy,ski_dataset\055_ski.npz,103,longest,3,1,1,all,103,0.262,15,6,0.4,0,74.0
+56,roi_pose_dataset\056_pose.npy,ski_dataset\056_ski.npz,103,longest,19,1,1,all,103,0.563,1779,364,0.2046,0,66.0
+57,roi_pose_dataset\057_pose.npy,ski_dataset\057_ski.npz,103,longest,9,1,1,all,103,0.291,78,2,0.0256,0,82.0
+58,roi_pose_dataset\058_pose.npy,ski_dataset\058_ski.npz,103,longest,68,2,2,all,103,0.981,3156,46,0.0146,0,82.0
+59,roi_pose_dataset\059_pose.npy,ski_dataset\059_ski.npz,103,longest,35,1,1,all,103,0.796,3640,282,0.0775,0,46.0
+60,roi_pose_dataset\060_pose.npy,ski_dataset\060_ski.npz,103,longest,19,1,1,all,103,0.883,1461,181,0.1239,0,46.0
+61,roi_pose_dataset\061_pose.npy,ski_dataset\061_ski.npz,103,longest,22,1,1,all,103,0.621,464,15,0.0323,0,22.0
+62,roi_pose_dataset\062_pose.npy,ski_dataset\062_ski.npz,103,longest,18,1,1,all,103,0.631,712,42,0.059,0,88.0
+63,roi_pose_dataset\063_pose.npy,ski_dataset\063_ski.npz,103,longest,22,1,1,all,103,0.515,492,10,0.0203,0,88.0
+64,roi_pose_dataset\064_pose.npy,ski_dataset\064_ski.npz,103,longest,22,1,1,all,103,0.718,711,9,0.0127,0,86.0
+65,roi_pose_dataset\065_pose.npy,ski_dataset\065_ski.npz,103,longest,4,1,1,all,103,0.039,16,4,0.25,0,64.0
+66,roi_pose_dataset\066_pose.npy,ski_dataset\066_ski.npz,103,longest,15,1,1,all,103,0.689,3321,362,0.109,0,26.0
+67,roi_pose_dataset\067_pose.npy,ski_dataset\067_ski.npz,103,longest,2,1,1,all,103,0.058,15,6,0.4,0,46.0
+68,roi_pose_dataset\068_pose.npy,ski_dataset\068_ski.npz,103,longest,13,1,1,all,103,0.738,2917,871,0.2986,0,58.0
+69,roi_pose_dataset\069_pose.npy,ski_dataset\069_ski.npz,103,longest,6,1,1,all,103,0.427,105,19,0.181,0,58.0
+70,roi_pose_dataset\070_pose.npy,ski_dataset\070_ski.npz,103,longest,16,1,1,all,103,0.621,476,21,0.0441,0,80.0
+71,roi_pose_dataset\071_pose.npy,ski_dataset\071_ski.npz,103,longest,20,1,1,all,103,0.699,760,112,0.1474,0,72.0
+72,roi_pose_dataset\072_pose.npy,ski_dataset\072_ski.npz,103,longest,3,1,1,all,103,0.184,12,2,0.1667,0,74.0
+73,roi_pose_dataset\073_pose.npy,ski_dataset\073_ski.npz,103,longest,16,1,1,all,103,0.99,286,52,0.1818,0,28.0
+74,roi_pose_dataset\074_pose.npy,ski_dataset\074_ski.npz,103,longest,24,1,1,all,103,0.68,665,84,0.1263,0,88.0
+75,roi_pose_dataset\075_pose.npy,ski_dataset\075_ski.npz,103,longest,45,1,1,all,103,1.0,3336,493,0.1478,0,88.0
+76,roi_pose_dataset\076_pose.npy,ski_dataset\076_ski.npz,103,longest,27,1,1,all,103,0.786,2559,317,0.1239,0,38.0
+77,roi_pose_dataset\077_pose.npy,ski_dataset\077_ski.npz,103,longest,48,1,1,all,103,0.854,2789,134,0.048,0,38.0
+78,roi_pose_dataset\078_pose.npy,ski_dataset\078_ski.npz,103,longest,9,1,1,all,103,0.427,254,28,0.1102,0,28.0
+79,roi_pose_dataset\079_pose.npy,ski_dataset\079_ski.npz,103,longest,11,1,1,all,103,0.796,1725,515,0.2986,0,24.0
+80,roi_pose_dataset\080_pose.npy,ski_dataset\080_ski.npz,103,longest,26,1,1,all,103,0.825,1396,238,0.1705,0,24.0
+81,roi_pose_dataset\081_pose.npy,ski_dataset\081_ski.npz,103,longest,25,1,1,all,103,0.515,724,12,0.0166,0,64.0
+82,roi_pose_dataset\082_pose.npy,ski_dataset\082_ski.npz,103,longest,37,1,1,all,103,0.913,928,8,0.0086,0,94.0
+83,roi_pose_dataset\083_pose.npy,ski_dataset\083_ski.npz,103,longest,31,1,1,all,103,0.942,2374,192,0.0809,0,88.0
+84,roi_pose_dataset\084_pose.npy,ski_dataset\084_ski.npz,103,longest,42,1,1,all,103,0.728,2864,301,0.1051,0,88.0
+85,roi_pose_dataset\085_pose.npy,ski_dataset\085_ski.npz,103,longest,20,1,1,all,103,0.612,326,36,0.1104,0,38.0
+86,roi_pose_dataset\086_pose.npy,ski_dataset\086_ski.npz,103,longest,20,1,1,all,103,0.515,978,56,0.0573,0,24.0
+87,roi_pose_dataset\087_pose.npy,ski_dataset\087_ski.npz,103,longest,4,1,1,all,103,0.291,428,49,0.1145,0,24.0
+88,roi_pose_dataset\088_pose.npy,ski_dataset\088_ski.npz,103,longest,42,1,1,all,103,0.845,1948,66,0.0339,0,24.0
+89,roi_pose_dataset\089_pose.npy,ski_dataset\089_ski.npz,103,longest,27,1,1,all,103,0.447,729,0,0.0,0,26.0
+90,roi_pose_dataset\090_pose.npy,ski_dataset\090_ski.npz,103,longest,19,1,1,all,103,0.767,660,90,0.1364,0,22.0
+91,roi_pose_dataset\091_pose.npy,ski_dataset\091_ski.npz,103,longest,8,1,1,all,103,0.534,128,10,0.0781,0,24.0
+92,roi_pose_dataset\092_pose.npy,ski_dataset\092_ski.npz,103,longest,31,1,1,all,103,0.903,1730,128,0.074,0,70.0
+93,roi_pose_dataset\093_pose.npy,ski_dataset\093_ski.npz,103,longest,29,1,1,all,103,0.563,897,14,0.0156,0,70.0
+94,roi_pose_dataset\094_pose.npy,ski_dataset\094_ski.npz,103,longest,12,1,1,all,103,0.553,284,8,0.0282,0,80.0
+95,roi_pose_dataset\095_pose.npy,ski_dataset\095_ski.npz,103,longest,23,1,1,all,103,0.66,806,30,0.0372,0,76.0
+96,roi_pose_dataset\096_pose.npy,ski_dataset\096_ski.npz,103,longest,64,2,2,all,103,1.0,6683,23,0.0034,0,76.0
+97,roi_pose_dataset\097_pose.npy,ski_dataset\097_ski.npz,103,longest,12,1,1,all,103,0.223,411,52,0.1265,0,84.0
+98,roi_pose_dataset\098_pose.npy,ski_dataset\098_ski.npz,103,longest,7,1,1,all,103,0.621,629,134,0.213,0,72.0
+99,roi_pose_dataset\099_pose.npy,ski_dataset\099_ski.npz,103,longest,35,1,1,all,103,0.951,946,30,0.0317,0,62.0
+100,roi_pose_dataset\100_pose.npy,ski_dataset\100_ski.npz,103,longest,47,1,1,all,103,0.883,1670,34,0.0204,0,34.0
+101,roi_pose_dataset\101_pose.npy,ski_dataset\101_ski.npz,103,longest,3,1,1,all,103,0.223,25,0,0.0,0,24.0
+102,roi_pose_dataset\102_pose.npy,ski_dataset\102_ski.npz,103,longest,26,1,1,all,103,0.767,926,2,0.0022,0,24.0
+103,roi_pose_dataset\103_pose.npy,ski_dataset\103_ski.npz,103,longest,20,1,1,all,103,0.282,788,24,0.0305,0,24.0
+104,roi_pose_dataset\104_pose.npy,ski_dataset\104_ski.npz,103,longest,50,1,1,all,103,0.903,3864,144,0.0373,0,24.0
+105,roi_pose_dataset\105_pose.npy,ski_dataset\105_ski.npz,103,longest,9,1,1,all,103,0.495,486,71,0.1461,0,76.0
+106,roi_pose_dataset\106_pose.npy,ski_dataset\106_ski.npz,103,longest,15,1,1,all,103,0.757,750,48,0.064,0,70.0
+107,roi_pose_dataset\107_pose.npy,ski_dataset\107_ski.npz,103,longest,21,1,1,all,103,0.893,1611,147,0.0912,0,24.0
+108,roi_pose_dataset\108_pose.npy,ski_dataset\108_ski.npz,103,longest,11,1,1,all,103,0.563,308,22,0.0714,0,74.0
+109,roi_pose_dataset\109_pose.npy,ski_dataset\109_ski.npz,103,longest,48,1,1,all,103,0.854,1688,6,0.0036,0,62.0
+110,roi_pose_dataset\110_pose.npy,ski_dataset\110_ski.npz,103,longest,61,1,1,all,103,1.0,2562,22,0.0086,0,62.0
+111,roi_pose_dataset\111_pose.npy,ski_dataset\111_ski.npz,103,longest,38,1,1,all,103,0.738,1460,18,0.0123,0,82.0
+112,roi_pose_dataset\112_pose.npy,ski_dataset\112_ski.npz,103,longest,32,1,1,all,103,0.728,878,34,0.0387,0,60.0
+113,roi_pose_dataset\113_pose.npy,ski_dataset\113_ski.npz,103,longest,48,2,2,all,103,1.0,4353,91,0.0209,0,60.0
+114,roi_pose_dataset\114_pose.npy,ski_dataset\114_ski.npz,103,longest,50,1,1,all,103,0.806,3158,22,0.007,0,58.0
+115,roi_pose_dataset\115_pose.npy,ski_dataset\115_ski.npz,103,longest,25,1,1,all,103,0.777,1152,30,0.026,0,64.0
+116,roi_pose_dataset\116_pose.npy,ski_dataset\116_ski.npz,103,longest,37,1,1,all,103,0.893,2110,72,0.0341,0,40.0
+117,roi_pose_dataset\117_pose.npy,ski_dataset\117_ski.npz,103,longest,55,1,1,all,103,0.845,2846,0,0.0,0,80.0
+118,roi_pose_dataset\118_pose.npy,ski_dataset\118_ski.npz,103,longest,90,1,1,all,103,0.981,5200,20,0.0038,0,80.0
+119,roi_pose_dataset\119_pose.npy,ski_dataset\119_ski.npz,103,longest,26,1,1,all,103,0.854,1564,102,0.0652,0,92.0
+120,roi_pose_dataset\120_pose.npy,ski_dataset\120_ski.npz,103,longest,82,1,1,all,103,1.0,6312,2052,0.3251,0,92.0
+121,roi_pose_dataset\121_pose.npy,ski_dataset\121_ski.npz,103,longest,18,1,1,all,103,0.942,1121,36,0.0321,0,92.0
+122,roi_pose_dataset\122_pose.npy,ski_dataset\122_ski.npz,103,longest,78,1,1,all,103,1.0,7947,1673,0.2105,0,92.0
+123,roi_pose_dataset\123_pose.npy,ski_dataset\123_ski.npz,103,longest,35,1,1,all,103,0.922,5904,450,0.0762,0,76.0
+124,roi_pose_dataset\124_pose.npy,ski_dataset\124_ski.npz,103,longest,38,1,1,all,103,1.0,7924,2395,0.3022,0,76.0
+125,roi_pose_dataset\125_pose.npy,ski_dataset\125_ski.npz,103,longest,39,1,1,all,103,0.845,1782,14,0.0079,0,94.0
+126,roi_pose_dataset\126_pose.npy,ski_dataset\126_ski.npz,103,longest,42,1,1,all,103,0.99,15704,1755,0.1118,0,82.0
+127,roi_pose_dataset\127_pose.npy,ski_dataset\127_ski.npz,103,longest,56,1,1,all,103,1.0,11065,4095,0.3701,0,82.0
+128,roi_pose_dataset\128_pose.npy,ski_dataset\128_ski.npz,103,longest,42,1,1,all,103,0.942,3668,114,0.0311,0,100.0
+129,roi_pose_dataset\129_pose.npy,ski_dataset\129_ski.npz,103,longest,33,1,1,all,103,0.748,1962,27,0.0138,0,52.0
+130,roi_pose_dataset\130_pose.npy,ski_dataset\130_ski.npz,103,longest,18,1,1,all,103,0.388,513,6,0.0117,0,38.0
+131,roi_pose_dataset\131_pose.npy,ski_dataset\131_ski.npz,103,longest,64,1,1,all,103,0.913,2832,6,0.0021,0,38.0
+132,roi_pose_dataset\132_pose.npy,ski_dataset\132_ski.npz,103,longest,53,1,1,all,103,0.631,1914,32,0.0167,0,52.0
+133,roi_pose_dataset\133_pose.npy,ski_dataset\133_ski.npz,103,longest,24,1,1,all,103,0.68,768,8,0.0104,0,42.0
+134,roi_pose_dataset\134_pose.npy,ski_dataset\134_ski.npz,103,longest,90,1,1,all,103,1.0,3592,0,0.0,0,42.0
+135,roi_pose_dataset\135_pose.npy,ski_dataset\135_ski.npz,103,longest,52,1,1,all,103,0.718,1550,4,0.0026,0,64.0
+136,roi_pose_dataset\136_pose.npy,ski_dataset\136_ski.npz,103,longest,31,1,1,all,103,0.67,1066,18,0.0169,0,48.0
+137,roi_pose_dataset\137_pose.npy,ski_dataset\137_ski.npz,103,longest,42,1,1,all,103,0.748,2737,22,0.008,0,72.0
+138,roi_pose_dataset\138_pose.npy,ski_dataset\138_ski.npz,103,longest,76,1,1,all,103,1.0,3398,8,0.0024,0,72.0
+139,roi_pose_dataset\139_pose.npy,ski_dataset\139_ski.npz,103,longest,44,1,1,all,103,0.806,1320,0,0.0,0,70.0
+140,roi_pose_dataset\140_pose.npy,ski_dataset\140_ski.npz,103,longest,97,1,1,all,103,1.0,4854,4,0.0008,0,70.0
+141,roi_pose_dataset\141_pose.npy,ski_dataset\141_ski.npz,103,longest,46,1,1,all,103,0.903,1616,34,0.021,0,52.0
+142,roi_pose_dataset\142_pose.npy,ski_dataset\142_ski.npz,103,longest,76,1,1,all,103,0.99,11112,45,0.004,0,52.0
+143,roi_pose_dataset\143_pose.npy,ski_dataset\143_ski.npz,103,longest,29,1,1,all,103,0.709,674,6,0.0089,0,36.0
+144,roi_pose_dataset\144_pose.npy,ski_dataset\144_ski.npz,103,longest,47,1,1,all,103,0.738,2691,33,0.0123,0,66.0
+145,roi_pose_dataset\145_pose.npy,ski_dataset\145_ski.npz,103,longest,80,1,1,all,103,1.0,13437,36,0.0027,0,66.0
+146,roi_pose_dataset\146_pose.npy,ski_dataset\146_ski.npz,103,longest,28,1,1,all,103,0.641,840,4,0.0048,0,76.0
+147,roi_pose_dataset\147_pose.npy,ski_dataset\147_ski.npz,103,longest,73,1,1,all,103,1.0,4422,8,0.0018,0,76.0
+148,roi_pose_dataset\148_pose.npy,ski_dataset\148_ski.npz,103,longest,47,1,1,all,103,0.854,2560,36,0.0141,0,72.0
+149,roi_pose_dataset\149_pose.npy,ski_dataset\149_ski.npz,103,longest,37,1,1,all,103,0.835,1310,16,0.0122,0,88.0
+150,roi_pose_dataset\150_pose.npy,ski_dataset\150_ski.npz,103,longest,81,1,1,all,103,1.0,4320,22,0.0051,0,88.0
+151,roi_pose_dataset\151_pose.npy,ski_dataset\151_ski.npz,103,longest,6,1,1,all,103,0.447,164,11,0.0671,0,88.0
+152,roi_pose_dataset\152_pose.npy,ski_dataset\152_ski.npz,103,longest,48,1,1,all,103,0.631,1402,0,0.0,0,30.0
+153,roi_pose_dataset\153_pose.npy,ski_dataset\153_ski.npz,103,longest,33,1,1,all,103,0.66,1036,4,0.0039,0,68.0
+154,roi_pose_dataset\154_pose.npy,ski_dataset\154_ski.npz,103,longest,36,1,1,all,103,0.777,1058,2,0.0019,0,82.0
+155,roi_pose_dataset\155_pose.npy,ski_dataset\155_ski.npz,103,longest,74,1,1,all,103,1.0,3264,0,0.0,0,82.0
+156,roi_pose_dataset\156_pose.npy,ski_dataset\156_ski.npz,103,longest,14,1,1,all,103,0.417,172,6,0.0349,0,90.0
+157,roi_pose_dataset\157_pose.npy,ski_dataset\157_ski.npz,103,longest,68,1,1,all,103,1.0,7066,2,0.0003,0,90.0
+158,roi_pose_dataset\158_pose.npy,ski_dataset\158_ski.npz,103,longest,18,1,1,all,103,0.767,405,18,0.0444,0,44.0
+159,roi_pose_dataset\159_pose.npy,ski_dataset\159_ski.npz,103,longest,35,1,1,all,103,0.709,742,0,0.0,0,62.0
+160,roi_pose_dataset\160_pose.npy,ski_dataset\160_ski.npz,103,longest,103,1,1,all,103,1.0,4654,16,0.0034,0,62.0
+161,roi_pose_dataset\161_pose.npy,ski_dataset\161_ski.npz,103,longest,58,1,1,all,103,0.777,2999,62,0.0207,0,74.0
+162,roi_pose_dataset\162_pose.npy,ski_dataset\162_ski.npz,103,longest,20,1,1,all,103,0.476,485,5,0.0103,0,78.0
+163,roi_pose_dataset\163_pose.npy,ski_dataset\163_ski.npz,103,longest,21,1,1,all,103,0.573,796,6,0.0075,0,70.0
+164,roi_pose_dataset\164_pose.npy,ski_dataset\164_ski.npz,103,longest,26,1,1,all,103,0.796,682,10,0.0147,0,86.0
+165,roi_pose_dataset\165_pose.npy,ski_dataset\165_ski.npz,103,longest,66,1,1,all,103,1.0,2294,2,0.0009,0,86.0
+166,roi_pose_dataset\166_pose.npy,ski_dataset\166_ski.npz,103,longest,37,1,1,all,103,0.845,906,8,0.0088,0,80.0
+167,roi_pose_dataset\167_pose.npy,ski_dataset\167_ski.npz,103,longest,88,1,1,all,103,1.0,7253,27,0.0037,0,80.0
+168,roi_pose_dataset\168_pose.npy,ski_dataset\168_ski.npz,103,longest,34,1,1,all,103,0.825,1468,50,0.0341,0,84.0
+169,roi_pose_dataset\169_pose.npy,ski_dataset\169_ski.npz,103,longest,50,1,1,all,103,0.883,1662,12,0.0072,0,82.0
+170,roi_pose_dataset\170_pose.npy,ski_dataset\170_ski.npz,103,longest,37,1,1,all,103,0.796,1608,26,0.0162,0,42.0
+171,roi_pose_dataset\171_pose.npy,ski_dataset\171_ski.npz,103,longest,70,1,1,all,103,0.68,2342,18,0.0077,0,16.0
+172,roi_pose_dataset\172_pose.npy,ski_dataset\172_ski.npz,103,longest,50,1,1,all,103,0.786,1418,10,0.0071,0,54.0
+173,roi_pose_dataset\173_pose.npy,ski_dataset\173_ski.npz,103,longest,78,1,1,all,103,0.786,2340,4,0.0017,0,16.0
+174,roi_pose_dataset\174_pose.npy,ski_dataset\174_ski.npz,103,longest,58,1,1,all,103,0.592,1880,10,0.0053,0,22.0
+175,roi_pose_dataset\175_pose.npy,ski_dataset\175_ski.npz,103,longest,20,1,1,all,103,0.563,505,38,0.0752,0,30.0
+1026 (1)(2)-1,roi_pose_dataset\1026 (1)(2)-1_pose.npy,ski_dataset\1026 (1)(2)-1_ski.npz,110,longest,47,1,1,all,110,0.591,2596,20,0.0077,0,56.77241669
+1026 (1)(2)-2,roi_pose_dataset\1026 (1)(2)-2_pose.npy,ski_dataset\1026 (1)(2)-2_ski.npz,141,longest,42,1,1,all,141,0.823,1696,6,0.0035,0,77.83921284
+1026 (1)(2)-3,roi_pose_dataset\1026 (1)(2)-3_pose.npy,ski_dataset\1026 (1)(2)-3_ski.npz,131,longest,29,1,1,all,131,0.267,1980,9,0.0045,0,83.69601005
+1026 (1)(2)-4,roi_pose_dataset\1026 (1)(2)-4_pose.npy,ski_dataset\1026 (1)(2)-4_ski.npz,134,longest,35,1,1,all,134,0.56,1042,4,0.0038,0,87.62160681
+1026 (1)(2)-5,roi_pose_dataset\1026 (1)(2)-5_pose.npy,ski_dataset\1026 (1)(2)-5_ski.npz,159,longest,15,1,1,all,159,0.579,340,12,0.0353,0,97.0
+1026 (1)(2)-6,roi_pose_dataset\1026 (1)(2)-6_pose.npy,ski_dataset\1026 (1)(2)-6_ski.npz,132,longest,2,1,1,all,132,0.015,16,14,0.875,0,55.01362692
+1026 (1)(2)-7,roi_pose_dataset\1026 (1)(2)-7_pose.npy,ski_dataset\1026 (1)(2)-7_ski.npz,73,longest,45,1,1,all,73,0.932,1366,0,0.0,0,39.10168741
+1026 (1)(2)-8,roi_pose_dataset\1026 (1)(2)-8_pose.npy,ski_dataset\1026 (1)(2)-8_ski.npz,126,longest,110,1,1,all,126,1.0,7925,648,0.0818,0,49.64508989
+1026 (1)(2)-9,roi_pose_dataset\1026 (1)(2)-9_pose.npy,ski_dataset\1026 (1)(2)-9_ski.npz,138,longest,28,1,1,all,138,0.449,658,0,0.0,0,83.69601005
+1026 (1)(2)-10,roi_pose_dataset\1026 (1)(2)-10_pose.npy,ski_dataset\1026 (1)(2)-10_ski.npz,167,longest,167,1,1,all,167,1.0,9519,0,0.0,0,4.399655232
+1026 (1)(2)-11,roi_pose_dataset\1026 (1)(2)-11_pose.npy,ski_dataset\1026 (1)(2)-11_ski.npz,93,longest,29,1,1,all,93,0.946,2072,616,0.2973,0,9.038483253
+1026 (1)(2)-12,roi_pose_dataset\1026 (1)(2)-12_pose.npy,ski_dataset\1026 (1)(2)-12_ski.npz,117,longest,75,1,1,all,117,1.0,5308,760,0.1432,0,100.0
+1026 (1)(2)-13,roi_pose_dataset\1026 (1)(2)-13_pose.npy,ski_dataset\1026 (1)(2)-13_ski.npz,117,longest,66,1,1,all,117,0.667,3066,168,0.0548,0,6.560492667
+1026 (1)(2)-14,roi_pose_dataset\1026 (1)(2)-14_pose.npy,ski_dataset\1026 (1)(2)-14_ski.npz,117,longest,79,1,1,all,117,1.0,9525,4595,0.4824,0,27.22524116
+1026 (1)(2)-15,roi_pose_dataset\1026 (1)(2)-15_pose.npy,ski_dataset\1026 (1)(2)-15_ski.npz,111,longest,92,2,2,all,111,0.964,7875,96,0.0122,0,76.20881385
+1026 (1)(2)-16,roi_pose_dataset\1026 (1)(2)-16_pose.npy,ski_dataset\1026 (1)(2)-16_ski.npz,129,longest,106,2,2,all,129,0.938,6057,15,0.0025,0,18.24312781
+1026 (1)(2)-17,roi_pose_dataset\1026 (1)(2)-17_pose.npy,ski_dataset\1026 (1)(2)-17_ski.npz,112,longest,60,1,1,all,112,1.0,2814,6,0.0021,0,81.10001083
+1026 (1)(2)-18,roi_pose_dataset\1026 (1)(2)-18_pose.npy,ski_dataset\1026 (1)(2)-18_ski.npz,111,longest,79,3,3,all,111,0.937,4538,0,0.0,0,88.58720704
+1026 (1)(2)-19,roi_pose_dataset\1026 (1)(2)-19_pose.npy,ski_dataset\1026 (1)(2)-19_ski.npz,103,longest,36,1,1,all,103,0.951,1933,151,0.0781,0,64.31868084
+1026 (1)(2)-20,roi_pose_dataset\1026 (1)(2)-20_pose.npy,ski_dataset\1026 (1)(2)-20_ski.npz,174,longest,156,3,3,all,174,0.902,5508,96,0.0174,0,27.22524116
+1026 (1)(2)-21,roi_pose_dataset\1026 (1)(2)-21_pose.npy,ski_dataset\1026 (1)(2)-21_ski.npz,132,longest,70,1,1,all,132,0.826,5057,126,0.0249,0,77.83921284
+1026 (1)(2)-22,roi_pose_dataset\1026 (1)(2)-22_pose.npy,ski_dataset\1026 (1)(2)-22_ski.npz,133,longest,85,1,1,all,133,0.744,6676,54,0.0081,0,74.10107481
+1026 (1)(2)-23,roi_pose_dataset\1026 (1)(2)-23_pose.npy,ski_dataset\1026 (1)(2)-23_ski.npz,130,longest,116,1,1,all,130,1.0,10001,264,0.0264,0,53.01386152
+1026 (1)(2)-24,roi_pose_dataset\1026 (1)(2)-24_pose.npy,ski_dataset\1026 (1)(2)-24_ski.npz,107,longest,79,2,2,all,107,0.963,2940,348,0.1184,0,43.23146756
+1026 (1)(2)-25,roi_pose_dataset\1026 (1)(2)-25_pose.npy,ski_dataset\1026 (1)(2)-25_ski.npz,144,longest,97,1,1,all,144,0.938,8045,292,0.0363,0,59.42748385
+1026 (1)(2)-26,roi_pose_dataset\1026 (1)(2)-26_pose.npy,ski_dataset\1026 (1)(2)-26_ski.npz,111,longest,81,1,1,all,111,1.0,3410,414,0.1214,0,83.69601005
+1026 (1)(2)-27,roi_pose_dataset\1026 (1)(2)-27_pose.npy,ski_dataset\1026 (1)(2)-27_ski.npz,172,longest,130,1,1,all,172,1.0,47440,1046,0.022,0,49.64508989
+1026 (1)(2)-28,roi_pose_dataset\1026 (1)(2)-28_pose.npy,ski_dataset\1026 (1)(2)-28_ski.npz,96,longest,73,1,1,all,96,0.948,3330,72,0.0216,0,27.22524116
+1026 (1)(2)-29,roi_pose_dataset\1026 (1)(2)-29_pose.npy,ski_dataset\1026 (1)(2)-29_ski.npz,91,longest,26,1,1,all,91,0.868,1404,154,0.1097,0,62.79625549
+1026 (1)(2)-30,roi_pose_dataset\1026 (1)(2)-30_pose.npy,ski_dataset\1026 (1)(2)-30_ski.npz,96,longest,54,1,1,all,96,1.0,3186,406,0.1274,0,26.87369495
+1026 (1)(2)-31,roi_pose_dataset\1026 (1)(2)-31_pose.npy,ski_dataset\1026 (1)(2)-31_ski.npz,162,longest,118,1,1,all,162,1.0,19147,1973,0.103,0,47.34156893
+1026 (1)(2)-32,roi_pose_dataset\1026 (1)(2)-32_pose.npy,ski_dataset\1026 (1)(2)-32_ski.npz,113,longest,78,2,2,all,113,0.973,3138,118,0.0376,0,100.0
+1026 (1)(2)-33,roi_pose_dataset\1026 (1)(2)-33_pose.npy,ski_dataset\1026 (1)(2)-33_ski.npz,116,longest,25,2,2,all,116,0.362,770,34,0.0442,0,71.31761686
+1026 (1)(2)-34,roi_pose_dataset\1026 (1)(2)-34_pose.npy,ski_dataset\1026 (1)(2)-34_ski.npz,102,longest,15,1,1,all,102,0.412,236,62,0.2627,0,74.0
+1026 (1)(2)-35,roi_pose_dataset\1026 (1)(2)-35_pose.npy,ski_dataset\1026 (1)(2)-35_ski.npz,115,longest,21,1,1,all,115,0.922,922,404,0.4382,0,52.90588788
+1026 (1)(2)-36,roi_pose_dataset\1026 (1)(2)-36_pose.npy,ski_dataset\1026 (1)(2)-36_ski.npz,136,longest,109,1,1,all,136,1.0,7203,0,0.0,0,69.20987782
+1026 (1)(2)-37,roi_pose_dataset\1026 (1)(2)-37_pose.npy,ski_dataset\1026 (1)(2)-37_ski.npz,117,longest,86,1,1,all,117,1.0,2586,0,0.0,0,59.42748385
+1026 (1)(2)-38,roi_pose_dataset\1026 (1)(2)-38_pose.npy,ski_dataset\1026 (1)(2)-38_ski.npz,144,longest,121,3,3,all,144,0.896,8712,7,0.0008,0,41.60106856
+1026 (1)(2)-39,roi_pose_dataset\1026 (1)(2)-39_pose.npy,ski_dataset\1026 (1)(2)-39_ski.npz,265,longest,181,3,3,all,265,0.958,8148,144,0.0177,0,37.55917496
+1026 (1)(2)-40,roi_pose_dataset\1026 (1)(2)-40_pose.npy,ski_dataset\1026 (1)(2)-40_ski.npz,156,longest,54,1,1,all,156,0.564,2450,162,0.0661,0,68.05681888
+1026 (1)(2)-41,roi_pose_dataset\1026 (1)(2)-41_pose.npy,ski_dataset\1026 (1)(2)-41_ski.npz,104,longest,54,1,1,all,104,0.952,3436,284,0.0827,0,53.86316491
+1026 (1)(2)-42,roi_pose_dataset\1026 (1)(2)-42_pose.npy,ski_dataset\1026 (1)(2)-42_ski.npz,194,longest,22,1,1,all,194,0.469,680,149,0.2191,0,76.0
+1026 (1)(2)-43,roi_pose_dataset\1026 (1)(2)-43_pose.npy,ski_dataset\1026 (1)(2)-43_ski.npz,84,longest,84,1,1,all,84,1.0,2416,0,0.0,0,18.25804669
+1026 (1)(2)-44,roi_pose_dataset\1026 (1)(2)-44_pose.npy,ski_dataset\1026 (1)(2)-44_ski.npz,336,longest,336,1,1,all,336,1.0,20720,0,0.0,0,18.25804669
+1026 (1)(2)-45,roi_pose_dataset\1026 (1)(2)-45_pose.npy,ski_dataset\1026 (1)(2)-45_ski.npz,111,longest,57,1,1,all,111,1.0,3417,414,0.1212,0,40.95834772
+1026 (1)(2)-46,roi_pose_dataset\1026 (1)(2)-46_pose.npy,ski_dataset\1026 (1)(2)-46_ski.npz,120,longest,74,1,1,all,120,1.0,4702,510,0.1085,0,40.95834772
+1026 (1)(2)-47,roi_pose_dataset\1026 (1)(2)-47_pose.npy,ski_dataset\1026 (1)(2)-47_ski.npz,79,longest,15,1,1,all,79,0.215,827,8,0.0097,0,31.8186746
+1026 (1)(2)-48,roi_pose_dataset\1026 (1)(2)-48_pose.npy,ski_dataset\1026 (1)(2)-48_ski.npz,90,longest,82,1,1,all,90,1.0,2752,38,0.0138,0,19.07324618
+1026 (1)(2)-49,roi_pose_dataset\1026 (1)(2)-49_pose.npy,ski_dataset\1026 (1)(2)-49_ski.npz,99,longest,90,1,1,all,99,1.0,10185,1252,0.1229,0,27.776781
+1026 (1)(2)-50,roi_pose_dataset\1026 (1)(2)-50_pose.npy,ski_dataset\1026 (1)(2)-50_ski.npz,111,longest,94,1,1,all,111,1.0,2700,0,0.0,0,27.776781
+1026 (1)(2)-51,roi_pose_dataset\1026 (1)(2)-51_pose.npy,ski_dataset\1026 (1)(2)-51_ski.npz,66,longest,32,1,1,all,66,1.0,972,0,0.0,0,26.146382
+1026 (1)(2)-52,roi_pose_dataset\1026 (1)(2)-52_pose.npy,ski_dataset\1026 (1)(2)-52_ski.npz,150,longest,120,1,1,all,150,1.0,8685,0,0.0,0,37.55917496
+1026 (1)(2)-53,roi_pose_dataset\1026 (1)(2)-53_pose.npy,ski_dataset\1026 (1)(2)-53_ski.npz,74,longest,66,1,1,all,74,1.0,4502,264,0.0586,0,21.25518502
+1026 (1)(2)-54,roi_pose_dataset\1026 (1)(2)-54_pose.npy,ski_dataset\1026 (1)(2)-54_ski.npz,108,longest,104,1,1,all,108,1.0,7554,100,0.0132,0,16.62764769
+1026 (1)(2)-55,roi_pose_dataset\1026 (1)(2)-55_pose.npy,ski_dataset\1026 (1)(2)-55_ski.npz,123,longest,107,1,1,all,123,1.0,5462,157,0.0287,0,69.20987782
+1026 (1)(2)-56,roi_pose_dataset\1026 (1)(2)-56_pose.npy,ski_dataset\1026 (1)(2)-56_ski.npz,89,longest,84,1,1,all,89,1.0,4130,20,0.0048,0,14.1820492
+1026 (1)(2)-57,roi_pose_dataset\1026 (1)(2)-57_pose.npy,ski_dataset\1026 (1)(2)-57_ski.npz,72,longest,65,1,1,all,72,1.0,2972,4,0.0013,0,14.1820492
+1026 (1)(2)-58,roi_pose_dataset\1026 (1)(2)-58_pose.npy,ski_dataset\1026 (1)(2)-58_ski.npz,95,longest,89,1,1,all,95,1.0,3030,0,0.0,0,26.41004166
+1026 (1)(2)-59,roi_pose_dataset\1026 (1)(2)-59_pose.npy,ski_dataset\1026 (1)(2)-59_ski.npz,112,longest,27,1,1,all,112,0.562,1700,76,0.0447,0,56.03144014
